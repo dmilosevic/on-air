@@ -42,15 +42,15 @@ jobs:
           
           # Get the last entry from the file if it exists
           if [ -f "$week_file" ]; then
-          last_entry=$(tail -n 1 "$week_file")
-          last_artist=$(echo "$last_entry" | jq -r '.artist')
-          last_song=$(echo "$last_entry" | jq -r '.song')
+            last_entry=$(tail -n 1 "$week_file")
+            last_artist=$(echo "$last_entry" | jq -r '.artist')
+            last_song=$(echo "$last_entry" | jq -r '.song')
           
-          # Skip if same song is still playing
-          if [ "$last_artist" = "$artist" ] && [ "$last_song" = "$song" ]; then
-          echo "Same song still playing, skipping"
-          exit 0
-          fi
+            # Skip if same song is still playing
+            if [ "$last_artist" = "$artist" ] && [ "$last_song" = "$song" ]; then
+              echo "Same song still playing, skipping"
+              exit 0
+            fi
           fi
 
           # Create the data entry
