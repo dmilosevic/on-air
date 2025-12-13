@@ -22,6 +22,8 @@ jobs:
 
           # Fetch current song data
           response=$(curl -sf "$API_ENDPOINT")
+          
+          echo "Raw API Response: $response"
 
           # Check if curl was successful
           if [ $? -ne 0 ]; then
