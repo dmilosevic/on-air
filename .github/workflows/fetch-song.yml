@@ -56,11 +56,7 @@ jobs:
           fi
 
           # Create the data entry
-          entry=$(jq -n \
-            --arg ts "$timestamp" \
-            --arg artist "$artist" \
-            --arg song "$song" \
-            '{ts: $ts, artist: $artist, song: $song}')
+          entry=$(jq -n --arg ts "$timestamp" --arg artist "$artist" --arg song "$song" '{$ts, $artist, $song}')
 
           # Append the entry to the weekly file
           echo "$entry" >> "$week_file"
