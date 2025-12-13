@@ -20,21 +20,19 @@ jobs:
         run: |
           API_ENDPOINT="https://www.radios.rs/includes/get/now-playing-json.php?radio=s1"
 
-          # Fetch current song data
-          response=$(curl -sf "$API_ENDPOINT")
-          
-          echo "Raw API Response: $response"
+          # Fetch current song data and parse in one go
+          read artist song <<< $(curl -sf "$API_ENDPOINT" | jq -r '[.artist, .song] | @tsv')
 
-          # Check if curl was successful
-          if [ $? -ne 0 ]; then
-            echo "Failed to fetch data from API"
+          # Check if curl/parsing was successful
+          if [ -z "$artist" ] || [ -z "$song" ]; then
+            echo "Failed to fetch or parse data from API"
             exit 1
           fi
 
-          # Parse artist and song, add timestamp
+          echo "Parsed: Artist='$artist', Song='$song'"
+
+          # Add timestamp
           timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          artist=$(echo '$response' | jq -r '.artist')
-          song=$(echo '$response' | jq -r '.song')
           
           # Determine the week-based filename (ISO week date format: YYYY-Www)
           week_file="data/$(date -u +%Y-W%V).jsonl"
@@ -44,10 +42,8 @@ jobs:
           
           # Get the last entry from the file if it exists
           if [ -f "$week_file" ]; then
-            last_entry=$(tail -n 1 "$week_file")
-            last_artist=$(echo '$last_entry' | jq -r '.artist')
-            last_song=$(echo '$last_entry' | jq -r '.song')
-          
+            read last_artist last_song <<< $(tail -n 1 "$week_file" | jq -r '[.artist, .song] | @tsv')
+
             # Skip if same song is still playing
             if [ "$last_artist" = "$artist" ] && [ "$last_song" = "$song" ]; then
               echo "Same song still playing, skipping"
