@@ -33,6 +33,25 @@ jobs:
           timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           artist=$(echo "$response" | jq -r '.artist')
           song=$(echo "$response" | jq -r '.song')
+          
+          # Determine the week-based filename (ISO week date format: YYYY-Www)
+          week_file="data/$(date -u +%Y-W%V).jsonl"
+
+          # Create data directory if it doesn't exist
+          mkdir -p data
+          
+          # Get the last entry from the file if it exists
+          if [ -f "$week_file" ]; then
+          last_entry=$(tail -n 1 "$week_file")
+          last_artist=$(echo "$last_entry" | jq -r '.artist')
+          last_song=$(echo "$last_entry" | jq -r '.song')
+          
+          # Skip if same song is still playing
+          if [ "$last_artist" = "$artist" ] && [ "$last_song" = "$song" ]; then
+          echo "Same song still playing, skipping"
+          exit 0
+          fi
+          fi
 
           # Create the data entry
           entry=$(jq -n \
@@ -40,12 +59,6 @@ jobs:
             --arg artist "$artist" \
             --arg song "$song" \
             '{ts: $ts, artist: $artist, song: $song}')
-
-          # Determine the week-based filename (ISO week date format: YYYY-Www)
-          week_file="data/$(date -u +%Y-W%V).jsonl"
-
-          # Create data directory if it doesn't exist
-          mkdir -p data
 
           # Append the entry to the weekly file
           echo "$entry" >> "$week_file"
