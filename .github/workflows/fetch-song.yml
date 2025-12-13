@@ -21,7 +21,7 @@ jobs:
           API_ENDPOINT="https://www.radios.rs/includes/get/now-playing-json.php?radio=s1"
 
           # Fetch current song data and parse in one go
-          IFS=$'\t' read -r artist song <<< $(curl -sf "$API_ENDPOINT" | jq -r '[.artist, .song] | @tsv')
+          IFS=$'\t' read -r artist song <<< "$(curl -sf "$API_ENDPOINT" | jq -r '[.artist, .song] | @tsv')"
 
           # Check if curl/parsing was successful
           if [ -z "$artist" ] || [ -z "$song" ]; then
@@ -42,7 +42,7 @@ jobs:
           
           # Get the last entry from the file if it exists
           if [ -f "$week_file" ]; then
-            IFS=$'\t' read -r last_artist last_song <<< $(tail -n 1 "$week_file" | jq -r '[.artist, .song] | @tsv')
+            IFS=$'\t' read -r last_artist last_song <<< "$(tail -n 1 "$week_file" | jq -r '[.artist, .song] | @tsv')"
 
             # Skip if same song is still playing
             if [ "$last_artist" = "$artist" ] && [ "$last_song" = "$song" ]; then
