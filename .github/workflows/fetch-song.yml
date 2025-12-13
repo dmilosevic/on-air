@@ -54,8 +54,8 @@ jobs:
             fi
           fi
 
-          # Create the data entry
-          entry=$(jq -n --arg ts "$timestamp" --arg artist "$artist" --arg song "$song" '{$ts, $artist, $song}')
+          # Create the data entry (compact format for JSONL)
+          entry=$(jq -nc --arg ts "$timestamp" --arg artist "$artist" --arg song "$song" '{ts: $ts, artist: $artist, song: $song}')
 
           # Append the entry to the weekly file
           echo "$entry" >> "$week_file"
