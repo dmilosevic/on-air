@@ -1,0 +1,70 @@
+name: Fetch Now Playing Song
+
+on:
+  schedule:
+    - cron: '*/3 * * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-store:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and store song data
+        run: |
+          API_ENDPOINT="https://www.radios.rs/includes/get/now-playing-json.php?radio=s1"
+
+          # Fetch current song data
+          response=$(curl -sf "$API_ENDPOINT")
+
+          # Check if curl was successful
+          if [ $? -ne 0 ]; then
+            echo "Failed to fetch data from API"
+            exit 1
+          fi
+
+          # Parse artist and song, add timestamp
+          timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          artist=$(echo "$response" | jq -r '.artist')
+          song=$(echo "$response" | jq -r '.song')
+
+          # Create the data entry
+          entry=$(jq -n \
+            --arg ts "$timestamp" \
+            --arg artist "$artist" \
+            --arg song "$song" \
+            '{ts: $ts, artist: $artist, song: $song}')
+
+          # Determine the week-based filename (ISO week date format: YYYY-Www)
+          week_file="data/$(date -u +%Y-W%V).jsonl"
+
+          # Create data directory if it doesn't exist
+          mkdir -p data
+
+          # Append the entry to the weekly file
+          echo "$entry" >> "$week_file"
+
+          echo "Stored: $entry"
+          echo "File: $week_file"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update song data - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git push
