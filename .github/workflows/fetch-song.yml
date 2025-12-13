@@ -44,6 +44,9 @@ jobs:
           if [ -f "$week_file" ]; then
             IFS=$'\t' read -r last_artist last_song <<< "$(tail -n 1 "$week_file" | jq -r '[.artist, .song] | @tsv')"
 
+            echo "Last: Artist='$last_artist', Song='$last_song'"
+            echo "Current: Artist='$artist', Song='$song'"
+
             # Skip if same song is still playing
             if [ "$last_artist" = "$artist" ] && [ "$last_song" = "$song" ]; then
               echo "Same song still playing, skipping"
