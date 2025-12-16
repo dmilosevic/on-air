@@ -1,0 +1,221 @@
+/* Custom styles for On Air Analytics */
+
+/* Chart containers */
+.chart-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+/* Heatmap Grid */
+.heatmap-grid {
+    display: grid;
+    grid-template-columns: auto repeat(24, 1fr);
+    gap: 2px;
+    font-size: 12px;
+    margin-top: 1rem;
+}
+
+.heatmap-row-label {
+    display: flex;
+    align-items: center;
+    padding-right: 8px;
+    font-weight: 500;
+    color: #4B5563;
+    font-size: 11px;
+}
+
+.heatmap-header {
+    text-align: center;
+    color: #6B7280;
+    font-size: 10px;
+    padding: 4px;
+    font-weight: 500;
+}
+
+.heatmap-cell {
+    aspect-ratio: 1;
+    border-radius: 4px;
+    transition: all 0.2s;
+    cursor: pointer;
+    position: relative;
+}
+
+.heatmap-cell:hover {
+    transform: scale(1.1);
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.heatmap-cell[data-count="0"] {
+    background-color: #F3F4F6;
+}
+
+.heatmap-cell[data-count="low"] {
+    background-color: #DDD6FE;
+}
+
+.heatmap-cell[data-count="medium"] {
+    background-color: #A78BFA;
+}
+
+.heatmap-cell[data-count="high"] {
+    background-color: #7C3AED;
+}
+
+.heatmap-cell[data-count="very-high"] {
+    background-color: #5B21B6;
+}
+
+/* Tooltip for heatmap */
+.heatmap-tooltip {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 12px;
+    pointer-events: none;
+    z-index: 1000;
+    white-space: nowrap;
+    display: none;
+}
+
+.heatmap-cell:hover .heatmap-tooltip {
+    display: block;
+}
+
+/* Top songs this week list */
+.week-song-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    background-color: #F9FAFB;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.week-song-item:hover {
+    background-color: #F3F4F6;
+}
+
+.week-song-rank {
+    font-weight: 700;
+    color: #7C3AED;
+    font-size: 18px;
+    min-width: 32px;
+}
+
+.week-song-info {
+    flex: 1;
+    margin: 0 16px;
+}
+
+.week-song-title {
+    font-weight: 600;
+    color: #111827;
+}
+
+.week-song-artist {
+    font-size: 14px;
+    color: #6B7280;
+    margin-top: 2px;
+}
+
+.week-song-count {
+    font-weight: 600;
+    color: #7C3AED;
+    font-size: 16px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fadeIn {
+    animation: fadeIn 0.5s ease-out;
+}
+
+/* History table styling */
+#history-table tr {
+    transition: background-color 0.2s;
+}
+
+#history-table tr:hover {
+    background-color: #F9FAFB;
+}
+
+/* Loading skeleton */
+.skeleton {
+    background: linear-gradient(
+        90deg,
+        #f0f0f0 25%,
+        #e0e0e0 50%,
+        #f0f0f0 75%
+    );
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .chart-container {
+        height: 250px;
+    }
+
+    .heatmap-grid {
+        font-size: 10px;
+        gap: 1px;
+    }
+
+    .heatmap-row-label {
+        font-size: 9px;
+    }
+
+    .heatmap-header {
+        font-size: 8px;
+    }
+}
+
+/* Smooth scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #A78BFA;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #7C3AED;
+}

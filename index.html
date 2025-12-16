@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>On Air Analytics</title>
+
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gradient-to-br from-purple-50 to-blue-50 min-h-screen">
+    <!-- Header -->
+    <header class="bg-white shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-3xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+                        On Air
+                    </h1>
+                    <p class="text-gray-500 text-sm mt-1">Zero-cost, zero-infrastructure radio analytics • GitHub Pages + Actions</p>
+                </div>
+                <div class="hidden sm:block">
+                    <select id="time-period-filter" class="px-4 py-2 border border-gray-300 rounded-lg bg-white text-gray-700 font-medium focus:outline-none focus:ring-2 focus:ring-purple-500">
+                        <option value="all">All Time</option>
+                        <option value="thisweek">This Week</option>
+                        <option value="week">Last 7 Days</option>
+                        <option value="month">Last 30 Days</option>
+                        <option value="3months">Last 90 Days</option>
+                        <option value="year">Last 365 Days</option>
+                    </select>
+                </div>
+            </div>
+            <!-- Mobile filter -->
+            <div class="sm:hidden mt-4">
+                <select id="time-period-filter-mobile" class="w-full px-4 py-2 border border-gray-300 rounded-lg bg-white text-gray-700 font-medium focus:outline-none focus:ring-2 focus:ring-purple-500">
+                    <option value="all">All Time</option>
+                    <option value="thisweek">This Week</option>
+                    <option value="week">Last 7 Days</option>
+                    <option value="month">Last 30 Days</option>
+                    <option value="3months">Last 90 Days</option>
+                    <option value="year">Last 365 Days</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- Loading State -->
+        <div id="loading" class="text-center py-12">
+            <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600"></div>
+            <p class="mt-4 text-gray-600">Loading analytics...</p>
+        </div>
+
+        <!-- Main Content (hidden until loaded) -->
+        <div id="content" class="hidden">
+            <!-- Now Playing Hero Section -->
+            <section class="mb-8">
+                <div class="bg-gradient-to-r from-purple-600 to-blue-600 rounded-2xl shadow-xl p-8 text-white">
+                    <div class="flex items-center mb-4">
+                        <svg class="w-8 h-8 mr-3" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M18 3a1 1 0 00-1.196-.98l-10 2A1 1 0 006 5v9.114A4.369 4.369 0 005 14c-1.657 0-3 .895-3 2s1.343 2 3 2 3-.895 3-2V7.82l8-1.6v5.894A4.37 4.37 0 0015 12c-1.657 0-3 .895-3 2s1.343 2 3 2 3-.895 3-2V3z"/>
+                        </svg>
+                        <h2 class="text-2xl font-bold">Last Played</h2>
+                    </div>
+                    <div class="space-y-2">
+                        <p class="text-sm text-purple-200">Artist</p>
+                        <p id="now-playing-artist" class="text-3xl font-bold">-</p>
+                        <p class="text-sm text-purple-200 mt-4">Song</p>
+                        <p id="now-playing-song" class="text-2xl font-semibold">-</p>
+                        <p id="now-playing-time" class="text-sm text-purple-200 mt-4">-</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Stats Cards -->
+            <section class="mb-8">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                    <div class="bg-white rounded-xl shadow-md p-6">
+                        <p class="text-gray-500 text-sm font-medium">Total Songs</p>
+                        <p id="stat-total-songs" class="text-3xl font-bold text-gray-900 mt-2">-</p>
+                    </div>
+                    <div class="bg-white rounded-xl shadow-md p-6">
+                        <p class="text-gray-500 text-sm font-medium">Unique Songs</p>
+                        <p id="stat-unique-songs" class="text-3xl font-bold text-gray-900 mt-2">-</p>
+                    </div>
+                    <div class="bg-white rounded-xl shadow-md p-6">
+                        <p class="text-gray-500 text-sm font-medium">Unique Artists</p>
+                        <p id="stat-unique-artists" class="text-3xl font-bold text-gray-900 mt-2">-</p>
+                    </div>
+                    <div class="bg-white rounded-xl shadow-md p-6">
+                        <p class="text-gray-500 text-sm font-medium">This Week</p>
+                        <p id="stat-this-week" class="text-3xl font-bold text-gray-900 mt-2">-</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Top Charts -->
+            <section class="mb-8">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                    <!-- Top Songs -->
+                    <div class="bg-white rounded-xl shadow-md p-6">
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Top 10 Songs</h3>
+                        <div class="chart-container">
+                            <canvas id="top-songs-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <!-- Top Artists -->
+                    <div class="bg-white rounded-xl shadow-md p-6">
+                        <h3 class="text-xl font-bold text-gray-900 mb-4">Top 10 Artists</h3>
+                        <div class="chart-container">
+                            <canvas id="top-artists-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Recent History -->
+            <section class="mb-8">
+                <div class="bg-white rounded-xl shadow-md p-6">
+                    <h3 class="text-xl font-bold text-gray-900 mb-4">Recent Playback History</h3>
+                    <div class="overflow-x-auto">
+                        <table class="min-w-full divide-y divide-gray-200">
+                            <thead class="bg-gray-50">
+                                <tr>
+                                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Time</th>
+                                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Artist</th>
+                                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Song</th>
+                                </tr>
+                            </thead>
+                            <tbody id="history-table" class="bg-white divide-y divide-gray-200">
+                                <!-- Will be populated by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <p class="text-center text-gray-500 text-sm">
+                Data updates every 10 minutes via GitHub Actions
+            </p>
+        </div>
+    </footer>
+
+    <!-- JavaScript Modules -->
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
