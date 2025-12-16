@@ -1,0 +1,182 @@
+name: Fetch Songs (Long-Running)
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+# Prevent concurrent runs
+concurrency:
+  group: fetch-songs-longrunning
+  cancel-in-progress: false
+
+jobs:
+  fetch-loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360 # 6 hours max
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Long-running fetch loop
+        run: |
+          API_ENDPOINT="https://www.radios.rs/includes/get/now-playing-json.php?radio=s1"
+
+          # Duration: 6 hours = 21600 seconds
+          # Fetch interval: 2 minutes = 120 seconds
+          # Commit interval: 10 minutes = 600 seconds
+          FETCH_INTERVAL=120
+          COMMIT_INTERVAL=600
+          TOTAL_DURATION=21600
+
+          start_time=$(date +%s)
+          last_commit_time=$start_time
+          changes_pending=false
+
+          echo "Starting long-running fetch loop..."
+          echo "Will run for approximately $((TOTAL_DURATION / 3600)) hours"
+          echo "Fetching every $((FETCH_INTERVAL / 60)) minutes"
+          echo "Committing every $((COMMIT_INTERVAL / 60)) minutes"
+
+          while true; do
+            current_time=$(date +%s)
+            elapsed=$((current_time - start_time))
+
+            # Check if we've exceeded the total duration
+            if [ $elapsed -ge $TOTAL_DURATION ]; then
+              echo "Reached time limit ($((elapsed / 3600)) hours). Exiting loop."
+              break
+            fi
+
+            # Fetch and store song data
+            echo "---"
+            echo "Fetching at $(date -u +"%Y-%m-%d %H:%M:%S UTC")..."
+
+            # Fetch current song data
+            IFS=$'\t' read -r artist song <<< "$(curl -sf "$API_ENDPOINT" | jq -r '[.artist, .song] | @tsv')"
+
+            if [ -z "$artist" ] || [ -z "$song" ]; then
+              echo "Failed to fetch or parse data, skipping"
+            else
+              echo "Fetched: '$song' by '$artist'"
+
+              timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+              week_file="data/$(date -u +%Y-W%V).jsonl"
+
+              mkdir -p data
+
+              # Check for duplicate (same song as last entry)
+              skip_entry=false
+              if [ -f "$week_file" ]; then
+                IFS=$'\t' read -r last_artist last_song <<< "$(tail -n 1 "$week_file" | jq -r '[.artist, .song] | @tsv')"
+
+                if [ "$last_artist" = "$artist" ] && [ "$last_song" = "$song" ]; then
+                  echo "Same song still playing, skipping"
+                  skip_entry=true
+                fi
+              fi
+
+              if [ "$skip_entry" = false ]; then
+                # Append entry
+                entry=$(jq -nc --arg ts "$timestamp" --arg artist "$artist" --arg song "$song" '{ts: $ts, artist: $artist, song: $song}')
+                echo "$entry" >> "$week_file"
+                echo "Stored to $week_file"
+                changes_pending=true
+              fi
+            fi
+
+            # Check if it's time to commit
+            time_since_commit=$((current_time - last_commit_time))
+            if [ $time_since_commit -ge $COMMIT_INTERVAL ] && [ "$changes_pending" = true ]; then
+              echo ""
+              echo "Committing changes..."
+
+              # Generate manifest
+              echo "{" > data/manifest.json
+              echo "  \"generated\": \"$(date -u +"%Y-%m-%dT%H:%M:%SZ")\"," >> data/manifest.json
+              echo "  \"files\": [" >> data/manifest.json
+
+              first=true
+              for file in data/*.jsonl; do
+                if [ -f "$file" ]; then
+                  filename=$(basename "$file")
+                  [ "$first" = false ] && echo "," >> data/manifest.json
+                  echo -n "    \"$filename\"" >> data/manifest.json
+                  first=false
+                fi
+              done
+
+              echo "" >> data/manifest.json
+              echo "  ]" >> data/manifest.json
+              echo "}" >> data/manifest.json
+
+              # Pull latest changes to avoid conflicts
+              git pull --rebase origin main || git pull --rebase origin master || true
+
+              # Stage and commit
+              git add data/
+
+              if git diff --staged --quiet; then
+                echo "No changes to commit"
+              else
+                entry_count=$(git diff --staged --numstat | grep '.jsonl$' | awk '{sum+=$1} END {print sum}')
+                git commit -m "Update song data - batch commit ($entry_count entries) - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+                git push
+                echo "Committed and pushed $entry_count entries"
+              fi
+
+              last_commit_time=$current_time
+              changes_pending=false
+            fi
+
+            # Sleep until next fetch
+            echo "Sleeping for $((FETCH_INTERVAL / 60)) minutes..."
+            sleep $FETCH_INTERVAL
+          done
+
+          # Final commit if there are pending changes
+          if [ "$changes_pending" = true ]; then
+            echo ""
+            echo "Final commit before exit..."
+
+            # Generate manifest
+            echo "{" > data/manifest.json
+            echo "  \"generated\": \"$(date -u +"%Y-%m-%dT%H:%M:%SZ")\"," >> data/manifest.json
+            echo "  \"files\": [" >> data/manifest.json
+
+            first=true
+            for file in data/*.jsonl; do
+              if [ -f "$file" ]; then
+                filename=$(basename "$file")
+                [ "$first" = false ] && echo "," >> data/manifest.json
+                echo -n "    \"$filename\"" >> data/manifest.json
+                first=false
+              fi
+            done
+
+            echo "" >> data/manifest.json
+            echo "  ]" >> data/manifest.json
+            echo "}" >> data/manifest.json
+
+            git pull --rebase origin main || git pull --rebase origin master || true
+            git add data/
+
+            if ! git diff --staged --quiet; then
+              git commit -m "Final batch commit - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+              git push
+              echo "Final commit pushed"
+            fi
+          fi
+
+          echo ""
+          echo "Long-running fetch completed successfully"
