@@ -57,7 +57,10 @@ jobs:
               echo "Reached time limit ($((elapsed / 3600)) hours). Exiting loop."
               break
             fi
-
+          
+            # Pull latest changes to avoid conflicts
+            git pull --rebase origin main || git pull --rebase origin master || true
+          
             # Fetch and store song data
             echo "---"
             echo "Fetching at $(date -u +"%Y-%m-%d %H:%M:%S UTC")..."
@@ -120,9 +123,6 @@ jobs:
               echo "  ]" >> data/manifest.json
               echo "}" >> data/manifest.json
 
-              # Pull latest changes to avoid conflicts
-              git pull --rebase origin main || git pull --rebase origin master || true
-
               # Stage and commit
               git add data/
 
@@ -168,7 +168,7 @@ jobs:
             echo "  ]" >> data/manifest.json
             echo "}" >> data/manifest.json
 
-            git pull --rebase origin main || git pull --rebase origin master || true
+            #git pull --rebase origin main || git pull --rebase origin master || true
             git add data/
 
             if ! git diff --staged --quiet; then
