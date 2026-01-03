@@ -1,800 +1,808 @@
-{"ts":"2026-01-01T00:00:28Z","artist":"Merlin","song":"Hitna"}
-{"ts":"2026-01-01T00:02:28Z","artist":"Vlado Georgiev","song":"Andjele (summer mix)"}
-{"ts":"2026-01-01T00:06:29Z","artist":"ET","song":"Tek Je 12 Sati"}
-{"ts":"2026-01-01T00:10:30Z","artist":"Edita","song":"Kokuzna vremena"}
-{"ts":"2026-01-01T00:16:32Z","artist":"Bajaga","song":"Ti se ljubis"}
-{"ts":"2026-01-01T00:26:35Z","artist":"NipplePeople","song":"Frka"}
-{"ts":"2026-01-01T00:30:36Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-01T00:34:37Z","artist":"Shawn Mendes","song":"In My Blood"}
-{"ts":"2026-01-01T00:38:38Z","artist":"Antonia Gigovska","song":"Oko moje"}
-{"ts":"2026-01-01T00:45:02Z","artist":"Miach","song":"NLO (feat. Hiljson Mandela)"}
-{"ts":"2026-01-01T00:47:04Z","artist":"Matija Cvek","song":"Ne moram ni ja"}
-{"ts":"2026-01-01T00:51:31Z","artist":"Nina Badric","song":"Alive"}
-{"ts":"2026-01-01T00:55:51Z","artist":"Dado Glisic","song":"Neponovljiva"}
-{"ts":"2026-01-01T01:08:07Z","artist":"Djana","song":"Nostalgija"}
-{"ts":"2026-01-01T01:10:08Z","artist":"Sasa Kovacevic","song":"Jedina si vredela"}
-{"ts":"2026-01-01T01:14:34Z","artist":"Senidah","song":"Ti i Ja"}
-{"ts":"2026-01-01T01:20:35Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
-{"ts":"2026-01-01T01:29:53Z","artist":"Riblja Corba","song":"Lutka sa naslovne strane"}
-{"ts":"2026-01-01T01:41:57Z","artist":"Dino Merlin","song":"Rudar"}
-{"ts":"2026-01-01T01:47:59Z","artist":"Tony Cetinski","song":"Covjek Od Leda"}
-{"ts":"2026-01-01T01:49:59Z","artist":"Lena Kovacevic","song":"Tako Lako"}
-{"ts":"2026-01-01T01:54:00Z","artist":"Moby Dick","song":"Ljubomoran"}
+{"ts":"2026-01-01T00:00:02Z","artist":"Merlin","song":"Hitna"}
+{"ts":"2026-01-01T00:02:02Z","artist":"Vlado Georgiev","song":"Andjele (summer mix)"}
+{"ts":"2026-01-01T00:06:01Z","artist":"ET","song":"Tek Je 12 Sati"}
+{"ts":"2026-01-01T00:10:01Z","artist":"Edita","song":"Kokuzna vremena"}
+{"ts":"2026-01-01T00:16:01Z","artist":"Bajaga","song":"Ti se ljubis"}
+{"ts":"2026-01-01T00:28:01Z","artist":"NipplePeople","song":"Frka"}
+{"ts":"2026-01-01T00:32:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-01T00:34:01Z","artist":"Shawn Mendes","song":"In My Blood"}
+{"ts":"2026-01-01T00:38:01Z","artist":"Antonia Gigovska","song":"Oko moje"}
+{"ts":"2026-01-01T00:44:01Z","artist":"Miach","song":"NLO (feat. Hiljson Mandela)"}
+{"ts":"2026-01-01T00:46:01Z","artist":"Matija Cvek","song":"Ne moram ni ja"}
+{"ts":"2026-01-01T00:48:02Z","artist":"Boris Novkovic","song":"Elois"}
+{"ts":"2026-01-01T00:52:01Z","artist":"Nina Badric","song":"Alive"}
+{"ts":"2026-01-01T00:54:01Z","artist":"Dado Glisic","song":"Neponovljiva"}
+{"ts":"2026-01-01T01:08:01Z","artist":"Djana","song":"Nostalgija"}
+{"ts":"2026-01-01T01:10:01Z","artist":"Sasa Kovacevic","song":"Jedina si vredela"}
+{"ts":"2026-01-01T01:14:01Z","artist":"Senidah","song":"Ti i Ja"}
+{"ts":"2026-01-01T01:22:02Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
+{"ts":"2026-01-01T01:30:02Z","artist":"Riblja Corba","song":"Lutka sa naslovne strane"}
+{"ts":"2026-01-01T01:42:01Z","artist":"Dino Merlin","song":"Rudar"}
+{"ts":"2026-01-01T01:48:01Z","artist":"Tony Cetinski","song":"Covjek Od Leda"}
+{"ts":"2026-01-01T01:50:02Z","artist":"Lena Kovacevic","song":"Tako Lako"}
+{"ts":"2026-01-01T01:54:01Z","artist":"Moby Dick","song":"Ljubomoran"}
 {"ts":"2026-01-01T01:58:01Z","artist":"Angellina ft. Boy Tedson","song":"Biram Te"}
-{"ts":"2026-01-01T02:04:03Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
-{"ts":"2026-01-01T02:08:03Z","artist":"Vlado Georgiev","song":"Ako mi lose krene"}
-{"ts":"2026-01-01T02:16:05Z","artist":"Kylie Minogue","song":"Padam Padam"}
-{"ts":"2026-01-01T02:18:06Z","artist":"Edita","song":"A Kapela"}
-{"ts":"2026-01-01T02:24:07Z","artist":"Hana","song":"Mi smo u problemu"}
-{"ts":"2026-01-01T02:30:08Z","artist":"Parni Valjak","song":"Zastave"}
-{"ts":"2026-01-01T02:35:43Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
-{"ts":"2026-01-01T02:39:43Z","artist":"Bojan Marovic","song":"Neka te ljubi"}
-{"ts":"2026-01-01T02:47:47Z","artist":"Sergej Cetkovic","song":"Moje Si Sve"}
-{"ts":"2026-01-01T02:49:47Z","artist":"Senidah","song":"Zovi Me"}
-{"ts":"2026-01-01T02:53:48Z","artist":"Tose Proeski","song":"Rane na usnama"}
-{"ts":"2026-01-01T03:01:52Z","artist":"Aleksandra Radovic","song":"Cuvaj moje srce"}
-{"ts":"2026-01-01T03:05:53Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
-{"ts":"2026-01-01T03:07:55Z","artist":"Jonas Brothers","song":"Only Human"}
-{"ts":"2026-01-01T03:13:56Z","artist":"Crvena Jabuka","song":"To mi radi"}
-{"ts":"2026-01-01T03:17:58Z","artist":"Amna","song":"Lagana"}
-{"ts":"2026-01-01T03:19:58Z","artist":"Euterpa","song":"Ostani"}
-{"ts":"2026-01-01T03:21:59Z","artist":"Oliver Dragojevic","song":"Pred tvojim vratima"}
-{"ts":"2026-01-01T03:26:00Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
-{"ts":"2026-01-01T03:34:04Z","artist":"Zeljko Joksimovic","song":"Mozda je to ljubav"}
-{"ts":"2026-01-01T03:42:08Z","artist":"Sasa Kovacevic","song":"Radi me lagano"}
-{"ts":"2026-01-01T03:48:10Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
-{"ts":"2026-01-01T03:52:11Z","artist":"Zeljko Vasic","song":"Trazi pesmu"}
-{"ts":"2026-01-01T03:54:12Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
-{"ts":"2026-01-01T04:00:15Z","artist":"Toma x Djana","song":"Idi"}
-{"ts":"2026-01-01T04:04:16Z","artist":"Oliver Mandic","song":"Osloni se na mene"}
-{"ts":"2026-01-01T04:14:21Z","artist":"Mars Venus","song":"Budi sa mnom"}
-{"ts":"2026-01-01T04:18:23Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
-{"ts":"2026-01-01T04:20:23Z","artist":"Tony Cetinski","song":"Sto Si Ti Meni"}
-{"ts":"2026-01-01T04:28:26Z","artist":"Petar Graso","song":"Vera Od Suvog Zlata"}
-{"ts":"2026-01-01T04:32:27Z","artist":"Nevena","song":"Ne Moras"}
-{"ts":"2026-01-01T04:36:29Z","artist":"Dino Merlin","song":"Rane"}
-{"ts":"2026-01-01T04:40:31Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
-{"ts":"2026-01-01T04:42:31Z","artist":"Jelena Tomasevic","song":"Dobro jutro ljubavi"}
-{"ts":"2026-01-01T04:46:32Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-01T04:54:37Z","artist":"Zeljko Joksimovic","song":"1000 zena"}
-{"ts":"2026-01-01T04:56:37Z","artist":"Bajaga","song":"Na vrhovima prstiju"}
-{"ts":"2026-01-01T05:04:41Z","artist":"Sergej Cetkovic","song":"Ne odlazis"}
-{"ts":"2026-01-01T05:12:45Z","artist":"Dzejla Ramovic","song":"Bol"}
-{"ts":"2026-01-01T05:16:46Z","artist":"Tijana Bogicevic","song":"U redu"}
-{"ts":"2026-01-01T05:24:50Z","artist":"Gibonni","song":"Ne odustajem"}
-{"ts":"2026-01-01T05:30:53Z","artist":"Albina","song":"Grad sve zna"}
-{"ts":"2026-01-01T05:32:54Z","artist":"Vlado Georgiev","song":"Zena bez imena"}
-{"ts":"2026-01-01T05:38:56Z","artist":"Tasa Krunic","song":"Slomljena"}
-{"ts":"2026-01-01T05:40:57Z","artist":"Natasa Bekvalac","song":"Soba 23"}
-{"ts":"2026-01-01T05:44:58Z","artist":"Angellina","song":"Na tvojim rukama"}
-{"ts":"2026-01-01T05:46:58Z","artist":"The Weeknd","song":"Cant Feel My Face"}
-{"ts":"2026-01-01T05:51:01Z","artist":"Sasa Kovacevic","song":"Temperatura"}
-{"ts":"2026-01-01T05:55:02Z","artist":"Oktobar 1864","song":"Muzika noci"}
-{"ts":"2026-01-01T06:01:05Z","artist":"Bojan Marovic","song":"Jos si samo moja"}
-{"ts":"2026-01-01T06:05:06Z","artist":"Tap 011","song":"Okreni broj 95"}
-{"ts":"2026-01-01T06:11:08Z","artist":"Aleksandra Radovic","song":"Mali peh"}
-{"ts":"2026-01-01T06:19:11Z","artist":"Zeljko Vasic","song":"Sve jos mirise na nju"}
-{"ts":"2026-01-01T06:27:14Z","artist":"Franka x ToMa","song":"Da opet nadjem te"}
-{"ts":"2026-01-01T06:29:15Z","artist":"Marija Serifovic","song":"Znaj Da Znam"}
-{"ts":"2026-01-01T06:37:17Z","artist":"Tose Proeski","song":"Pratim te"}
-{"ts":"2026-01-01T06:43:20Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-01T06:49:23Z","artist":"Nevena","song":"Ogledalo"}
-{"ts":"2026-01-01T06:53:24Z","artist":"Merlin","song":"Nesto lepo treba da se desi"}
-{"ts":"2026-01-01T06:55:25Z","artist":"Nina Todorovic","song":"Fali Tren"}
-{"ts":"2026-01-01T07:13:33Z","artist":"Sandi Cenov","song":"Rano je za kraj"}
-{"ts":"2026-01-01T07:19:36Z","artist":"Eni Jurisic","song":"Tvoja ljubav"}
-{"ts":"2026-01-01T07:27:39Z","artist":"Magazin","song":"Jel zbog nje"}
-{"ts":"2026-01-01T07:33:41Z","artist":"Devito x Bajaga","song":"Astronaut"}
-{"ts":"2026-01-01T07:39:44Z","artist":"NipplePeople","song":"Frka"}
-{"ts":"2026-01-01T07:45:47Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-01T07:47:47Z","artist":"Shawn Mendes","song":"In My Blood"}
-{"ts":"2026-01-01T07:51:48Z","artist":"Antonia Gigovska","song":"Oko moje"}
-{"ts":"2026-01-01T07:53:49Z","artist":"Kaliopi","song":"Rodjeni"}
-{"ts":"2026-01-01T07:55:50Z","artist":"Miach","song":"NLO (feat. Hiljson Mandela)"}
-{"ts":"2026-01-01T07:59:51Z","artist":"Matija Cvek","song":"Ne moram ni ja"}
-{"ts":"2026-01-01T08:01:52Z","artist":"Boris Novkovic","song":"Elois"}
-{"ts":"2026-01-01T08:09:56Z","artist":"Dado Glisic","song":"Neponovljiva"}
-{"ts":"2026-01-01T08:26:02Z","artist":"Sasa Kovacevic","song":"Jedina si vredela"}
-{"ts":"2026-01-01T08:36:02Z","artist":"Nevena Bozovic","song":"Bal"}
-{"ts":"2026-01-01T08:42:04Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
-{"ts":"2026-01-01T08:54:09Z","artist":"Sara Jo","song":"Neko te ima"}
-{"ts":"2026-01-01T08:58:12Z","artist":"Zeljko Joksimovic","song":"Mila moja"}
-{"ts":"2026-01-01T09:02:13Z","artist":"Bajaga","song":"Ti se ljubis"}
-{"ts":"2026-01-01T09:04:13Z","artist":"Oktobar 1864","song":"Denis"}
-{"ts":"2026-01-01T09:20:20Z","artist":"Viktorija","song":"Barakuda"}
-{"ts":"2026-01-01T09:24:23Z","artist":"Generacija 5","song":"Dolazim za 5 minuta"}
-{"ts":"2026-01-01T09:28:24Z","artist":"Crvena Jabuka","song":"Dirlija"}
-{"ts":"2026-01-01T09:30:24Z","artist":"Bijelo Dugme","song":"Napile se ulice"}
-{"ts":"2026-01-01T09:34:27Z","artist":"Riblja Corba","song":"Kada padne noc (Upomoc)"}
-{"ts":"2026-01-01T09:38:28Z","artist":"Prljavo Kazaliste","song":"Ne zovi mama doktora"}
-{"ts":"2026-01-01T09:44:31Z","artist":"Piloti","song":"Cini mi se da..."}
-{"ts":"2026-01-01T09:48:32Z","artist":"Galija","song":"Digni Ruku"}
-{"ts":"2026-01-01T09:50:33Z","artist":"Dino Dvornik","song":"Hipnotiziran"}
-{"ts":"2026-01-01T09:58:37Z","artist":"Senidah","song":"Ti i Ja"}
-{"ts":"2026-01-01T10:02:40Z","artist":"Marija Serifovic","song":"Nisam Andjeo"}
-{"ts":"2026-01-01T10:10:42Z","artist":"Angellina","song":"Vanila"}
-{"ts":"2026-01-01T10:16:46Z","artist":"Oliver Mandic","song":"Odlazim a volim te"}
-{"ts":"2026-01-01T10:20:47Z","artist":"Teya Dora","song":"Pusti me"}
-{"ts":"2026-01-01T10:24:50Z","artist":"Sergej Cetkovic","song":"Zasto pravis slona od mene"}
-{"ts":"2026-01-01T10:26:50Z","artist":"Emilia Kokic","song":"Sto mi znacis ti (Acoustic)"}
-{"ts":"2026-01-01T10:36:54Z","artist":"Tose Proeski","song":"Da l si sretnija"}
-{"ts":"2026-01-01T10:44:58Z","artist":"Vlado Georgiev","song":"Sve si mi ti"}
-{"ts":"2026-01-01T10:48:59Z","artist":"Franka","song":"Putuj sa poljupcima"}
-{"ts":"2026-01-01T10:53:01Z","artist":"Aleksandra Radovic","song":"U inat proslosti ft. The Beatshakers"}
-{"ts":"2026-01-01T11:03:05Z","artist":"Oliver Dragojevic","song":"Nebo moje"}
-{"ts":"2026-01-01T11:21:12Z","artist":"Tajci","song":"Hajde da ludujemo"}
-{"ts":"2026-01-01T11:33:18Z","artist":"Boris Novkovic","song":"Dok svira radio"}
-{"ts":"2026-01-01T11:43:23Z","artist":"Petar Graso","song":"Ko Nam Brani"}
-{"ts":"2026-01-01T11:53:28Z","artist":"Merlin","song":"Kad si rekla da me volis"}
-{"ts":"2026-01-01T11:59:31Z","artist":"Zdravko Colic","song":"Ruska"}
-{"ts":"2026-01-01T12:03:32Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-01T12:07:35Z","artist":"Zeljko Vasic","song":"Ne verujem ja"}
-{"ts":"2026-01-01T12:11:36Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
-{"ts":"2026-01-01T12:13:37Z","artist":"Teddy Swims","song":"The door"}
-{"ts":"2026-01-01T12:17:39Z","artist":"Emina Jahovic","song":"Slagacu vas sve"}
-{"ts":"2026-01-01T12:23:41Z","artist":"Djavoli","song":"Suncan dan"}
-{"ts":"2026-01-01T12:27:43Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
-{"ts":"2026-01-01T12:33:45Z","artist":"Vlado Georgiev","song":"Sta bi prijatelji moji"}
-{"ts":"2026-01-01T12:37:47Z","artist":"Dzejla Ramovic","song":"Bol"}
-{"ts":"2026-01-01T12:51:53Z","artist":"Sandi","song":"Nebo"}
-{"ts":"2026-01-01T12:57:56Z","artist":"Nina Badric","song":"Prava Stvar"}
-{"ts":"2026-01-01T13:05:59Z","artist":"Sasa Kovacevic","song":"Ruka za spas"}
+{"ts":"2026-01-01T02:04:01Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
+{"ts":"2026-01-01T02:08:02Z","artist":"Vlado Georgiev","song":"Ako mi lose krene"}
+{"ts":"2026-01-01T02:16:01Z","artist":"Kylie Minogue","song":"Padam Padam"}
+{"ts":"2026-01-01T02:18:01Z","artist":"Edita","song":"A Kapela"}
+{"ts":"2026-01-01T02:24:01Z","artist":"Hana","song":"Mi smo u problemu"}
+{"ts":"2026-01-01T02:32:01Z","artist":"Parni Valjak","song":"Zastave"}
+{"ts":"2026-01-01T02:36:02Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
+{"ts":"2026-01-01T02:38:01Z","artist":"Bojan Marovic","song":"Neka te ljubi"}
+{"ts":"2026-01-01T02:46:01Z","artist":"Sergej Cetkovic","song":"Moje Si Sve"}
+{"ts":"2026-01-01T02:50:02Z","artist":"Senidah","song":"Zovi Me"}
+{"ts":"2026-01-01T02:54:01Z","artist":"Tose Proeski","song":"Rane na usnama"}
+{"ts":"2026-01-01T03:02:01Z","artist":"Aleksandra Radovic","song":"Cuvaj moje srce"}
+{"ts":"2026-01-01T03:06:01Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
+{"ts":"2026-01-01T03:08:01Z","artist":"Jonas Brothers","song":"Only Human"}
+{"ts":"2026-01-01T03:14:01Z","artist":"Crvena Jabuka","song":"To mi radi"}
+{"ts":"2026-01-01T03:18:01Z","artist":"Amna","song":"Lagana"}
+{"ts":"2026-01-01T03:20:01Z","artist":"Euterpa","song":"Ostani"}
+{"ts":"2026-01-01T03:22:01Z","artist":"Oliver Dragojevic","song":"Pred tvojim vratima"}
+{"ts":"2026-01-01T03:26:01Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
+{"ts":"2026-01-01T03:34:01Z","artist":"Zeljko Joksimovic","song":"Mozda je to ljubav"}
+{"ts":"2026-01-01T03:42:01Z","artist":"Sasa Kovacevic","song":"Radi me lagano"}
+{"ts":"2026-01-01T03:48:01Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
+{"ts":"2026-01-01T03:52:01Z","artist":"Zeljko Vasic","song":"Trazi pesmu"}
+{"ts":"2026-01-01T03:54:01Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-01T04:00:01Z","artist":"Toma x Djana","song":"Idi"}
+{"ts":"2026-01-01T04:04:02Z","artist":"Oliver Mandic","song":"Osloni se na mene"}
+{"ts":"2026-01-01T04:14:01Z","artist":"Mars Venus","song":"Budi sa mnom"}
+{"ts":"2026-01-01T04:18:02Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
+{"ts":"2026-01-01T04:22:01Z","artist":"Tony Cetinski","song":"Sto Si Ti Meni"}
+{"ts":"2026-01-01T04:28:01Z","artist":"Petar Graso","song":"Vera Od Suvog Zlata"}
+{"ts":"2026-01-01T04:32:02Z","artist":"Nevena","song":"Ne Moras"}
+{"ts":"2026-01-01T04:36:01Z","artist":"Dino Merlin","song":"Rane"}
+{"ts":"2026-01-01T04:40:01Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
+{"ts":"2026-01-01T04:44:01Z","artist":"Jelena Tomasevic","song":"Dobro jutro ljubavi"}
+{"ts":"2026-01-01T04:46:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
+{"ts":"2026-01-01T04:54:01Z","artist":"Zeljko Joksimovic","song":"1000 zena"}
+{"ts":"2026-01-01T04:58:01Z","artist":"Bajaga","song":"Na vrhovima prstiju"}
+{"ts":"2026-01-01T05:04:01Z","artist":"Sergej Cetkovic","song":"Ne odlazis"}
+{"ts":"2026-01-01T05:12:01Z","artist":"Dzejla Ramovic","song":"Bol"}
+{"ts":"2026-01-01T05:16:01Z","artist":"Tijana Bogicevic","song":"U redu"}
+{"ts":"2026-01-01T05:26:01Z","artist":"Gibonni","song":"Ne odustajem"}
+{"ts":"2026-01-01T05:30:01Z","artist":"Albina","song":"Grad sve zna"}
+{"ts":"2026-01-01T05:32:01Z","artist":"Vlado Georgiev","song":"Zena bez imena"}
+{"ts":"2026-01-01T05:40:02Z","artist":"Tasa Krunic","song":"Slomljena"}
+{"ts":"2026-01-01T05:42:01Z","artist":"Natasa Bekvalac","song":"Soba 23"}
+{"ts":"2026-01-01T05:46:02Z","artist":"Angellina","song":"Na tvojim rukama"}
+{"ts":"2026-01-01T05:48:01Z","artist":"The Weeknd","song":"Cant Feel My Face"}
+{"ts":"2026-01-01T05:52:01Z","artist":"Sasa Kovacevic","song":"Temperatura"}
+{"ts":"2026-01-01T05:54:01Z","artist":"Oktobar 1864","song":"Muzika noci"}
+{"ts":"2026-01-01T06:02:01Z","artist":"Bojan Marovic","song":"Jos si samo moja"}
+{"ts":"2026-01-01T06:04:01Z","artist":"Tap 011","song":"Okreni broj 95"}
+{"ts":"2026-01-01T06:12:01Z","artist":"Aleksandra Radovic","song":"Mali peh"}
+{"ts":"2026-01-01T06:18:01Z","artist":"Zeljko Vasic","song":"Sve jos mirise na nju"}
+{"ts":"2026-01-01T06:26:01Z","artist":"Franka x ToMa","song":"Da opet nadjem te"}
+{"ts":"2026-01-01T06:30:01Z","artist":"Marija Serifovic","song":"Znaj Da Znam"}
+{"ts":"2026-01-01T06:36:01Z","artist":"Tose Proeski","song":"Pratim te"}
+{"ts":"2026-01-01T06:44:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-01T06:50:01Z","artist":"Nevena","song":"Ogledalo"}
+{"ts":"2026-01-01T06:54:02Z","artist":"Merlin","song":"Nesto lepo treba da se desi"}
+{"ts":"2026-01-01T06:56:01Z","artist":"Nina Todorovic","song":"Fali Tren"}
+{"ts":"2026-01-01T07:14:02Z","artist":"Sandi Cenov","song":"Rano je za kraj"}
+{"ts":"2026-01-01T07:20:01Z","artist":"Eni Jurisic","song":"Tvoja ljubav"}
+{"ts":"2026-01-01T07:28:02Z","artist":"Magazin","song":"Jel zbog nje"}
+{"ts":"2026-01-01T07:34:02Z","artist":"Devito x Bajaga","song":"Astronaut"}
+{"ts":"2026-01-01T07:40:02Z","artist":"NipplePeople","song":"Frka"}
+{"ts":"2026-01-01T07:44:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-01T07:48:01Z","artist":"Shawn Mendes","song":"In My Blood"}
+{"ts":"2026-01-01T07:52:01Z","artist":"Antonia Gigovska","song":"Oko moje"}
+{"ts":"2026-01-01T07:54:01Z","artist":"Kaliopi","song":"Rodjeni"}
+{"ts":"2026-01-01T07:56:01Z","artist":"Miach","song":"NLO (feat. Hiljson Mandela)"}
+{"ts":"2026-01-01T08:00:02Z","artist":"Matija Cvek","song":"Ne moram ni ja"}
+{"ts":"2026-01-01T08:02:01Z","artist":"Boris Novkovic","song":"Elois"}
+{"ts":"2026-01-01T08:10:01Z","artist":"Dado Glisic","song":"Neponovljiva"}
+{"ts":"2026-01-01T08:26:01Z","artist":"Sasa Kovacevic","song":"Jedina si vredela"}
+{"ts":"2026-01-01T08:32:01Z","artist":"Senidah","song":"Ti i Ja"}
+{"ts":"2026-01-01T08:34:02Z","artist":"Nevena Bozovic","song":"Bal"}
+{"ts":"2026-01-01T08:42:02Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
+{"ts":"2026-01-01T08:54:01Z","artist":"Sara Jo","song":"Neko te ima"}
+{"ts":"2026-01-01T08:58:01Z","artist":"Zeljko Joksimovic","song":"Mila moja"}
+{"ts":"2026-01-01T09:02:02Z","artist":"Bajaga","song":"Ti se ljubis"}
+{"ts":"2026-01-01T09:04:01Z","artist":"Oktobar 1864","song":"Denis"}
+{"ts":"2026-01-01T09:22:01Z","artist":"Viktorija","song":"Barakuda"}
+{"ts":"2026-01-01T09:24:02Z","artist":"Generacija 5","song":"Dolazim za 5 minuta"}
+{"ts":"2026-01-01T09:28:01Z","artist":"Crvena Jabuka","song":"Dirlija"}
+{"ts":"2026-01-01T09:32:01Z","artist":"Bijelo Dugme","song":"Napile se ulice"}
+{"ts":"2026-01-01T09:34:01Z","artist":"Riblja Corba","song":"Kada padne noc (Upomoc)"}
+{"ts":"2026-01-01T09:38:02Z","artist":"Prljavo Kazaliste","song":"Ne zovi mama doktora"}
+{"ts":"2026-01-01T09:44:01Z","artist":"Piloti","song":"Cini mi se da..."}
+{"ts":"2026-01-01T09:48:01Z","artist":"Galija","song":"Digni Ruku"}
+{"ts":"2026-01-01T09:52:02Z","artist":"Dino Dvornik","song":"Hipnotiziran"}
+{"ts":"2026-01-01T09:58:02Z","artist":"Senidah","song":"Ti i Ja"}
+{"ts":"2026-01-01T10:02:01Z","artist":"Marija Serifovic","song":"Nisam Andjeo"}
+{"ts":"2026-01-01T10:12:01Z","artist":"Angellina","song":"Vanila"}
+{"ts":"2026-01-01T10:18:02Z","artist":"Oliver Mandic","song":"Odlazim a volim te"}
+{"ts":"2026-01-01T10:22:01Z","artist":"Teya Dora","song":"Pusti me"}
+{"ts":"2026-01-01T10:24:02Z","artist":"Sergej Cetkovic","song":"Zasto pravis slona od mene"}
+{"ts":"2026-01-01T10:28:01Z","artist":"Emilia Kokic","song":"Sto mi znacis ti (Acoustic)"}
+{"ts":"2026-01-01T10:38:02Z","artist":"Tose Proeski","song":"Da l si sretnija"}
+{"ts":"2026-01-01T10:44:01Z","artist":"Vlado Georgiev","song":"Sve si mi ti"}
+{"ts":"2026-01-01T10:48:01Z","artist":"Franka","song":"Putuj sa poljupcima"}
+{"ts":"2026-01-01T10:52:02Z","artist":"Aleksandra Radovic","song":"U inat proslosti ft. The Beatshakers"}
+{"ts":"2026-01-01T11:04:01Z","artist":"Oliver Dragojevic","song":"Nebo moje"}
+{"ts":"2026-01-01T11:22:01Z","artist":"Tajci","song":"Hajde da ludujemo"}
+{"ts":"2026-01-01T11:32:01Z","artist":"Boris Novkovic","song":"Dok svira radio"}
+{"ts":"2026-01-01T11:44:01Z","artist":"Petar Graso","song":"Ko Nam Brani"}
+{"ts":"2026-01-01T11:54:01Z","artist":"Merlin","song":"Kad si rekla da me volis"}
+{"ts":"2026-01-01T11:58:01Z","artist":"Zdravko Colic","song":"Ruska"}
+{"ts":"2026-01-01T12:04:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-01T12:06:01Z","artist":"Zeljko Vasic","song":"Ne verujem ja"}
+{"ts":"2026-01-01T12:10:01Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-01T12:14:01Z","artist":"Teddy Swims","song":"The door"}
+{"ts":"2026-01-01T12:18:01Z","artist":"Emina Jahovic","song":"Slagacu vas sve"}
+{"ts":"2026-01-01T12:24:01Z","artist":"Djavoli","song":"Suncan dan"}
+{"ts":"2026-01-01T12:28:01Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
+{"ts":"2026-01-01T12:34:01Z","artist":"Vlado Georgiev","song":"Sta bi prijatelji moji"}
+{"ts":"2026-01-01T12:38:01Z","artist":"Dzejla Ramovic","song":"Bol"}
+{"ts":"2026-01-01T12:52:01Z","artist":"Sandi","song":"Nebo"}
+{"ts":"2026-01-01T12:58:01Z","artist":"Nina Badric","song":"Prava Stvar"}
+{"ts":"2026-01-01T13:06:01Z","artist":"Sasa Kovacevic","song":"Ruka za spas"}
 {"ts":"2026-01-01T13:10:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-01T13:12:02Z","artist":"Coldplay feat. Beyonce","song":"Hymn for the Weekend"}
-{"ts":"2026-01-01T13:16:04Z","artist":"Marija Serifovic","song":"Idi dok te volim"}
-{"ts":"2026-01-01T13:22:06Z","artist":"Dino Dvornik","song":"Od Splita do Beograda (Ove noci)"}
-{"ts":"2026-01-01T13:32:10Z","artist":"Boris Rezak","song":"Pokora"}
-{"ts":"2026-01-01T13:36:12Z","artist":"Knez","song":"Falis mi ti"}
-{"ts":"2026-01-01T13:42:14Z","artist":"Aleksandra Radovic","song":"Vlak"}
-{"ts":"2026-01-01T13:44:15Z","artist":"Jelena Rozga","song":"Kad nema ljubavi"}
-{"ts":"2026-01-01T13:48:17Z","artist":"Djordje Balasevic","song":"Jaroslava"}
-{"ts":"2026-01-01T13:52:18Z","artist":"NipplePeople","song":"Sutra"}
-{"ts":"2026-01-01T13:56:20Z","artist":"ET","song":"Sve bih dala da znam"}
-{"ts":"2026-01-01T14:00:21Z","artist":"Edita","song":"Slobodno me rani"}
-{"ts":"2026-01-01T14:04:22Z","artist":"Hiljson Mandela x Miach","song":"Andjeo"}
-{"ts":"2026-01-01T14:10:26Z","artist":"Coby","song":"Leto je"}
-{"ts":"2026-01-01T14:12:26Z","artist":"Senidah","song":"Replay"}
-{"ts":"2026-01-01T14:16:29Z","artist":"Zoi","song":"Jasno mi je"}
-{"ts":"2026-01-01T14:20:30Z","artist":"Emina Jahovic","song":"Dodirni me"}
-{"ts":"2026-01-01T14:24:31Z","artist":"Angellina","song":"Pile moje"}
-{"ts":"2026-01-01T14:26:33Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
-{"ts":"2026-01-01T14:42:26Z","artist":"Sergej Pajic x Edita","song":"Rio Rio"}
-{"ts":"2026-01-01T14:44:26Z","artist":"Devito x Bajaga","song":"Astronaut"}
-{"ts":"2026-01-01T14:54:31Z","artist":"Tijana Bogicevic","song":"Nekako nikako"}
-{"ts":"2026-01-01T15:10:39Z","artist":"Sara Jo","song":"Bez Sna"}
-{"ts":"2026-01-01T15:16:43Z","artist":"Aleksandra Radovic","song":"Ne hvala"}
-{"ts":"2026-01-01T15:20:44Z","artist":"Zeljko Vasic","song":"Nisam Od Juce"}
-{"ts":"2026-01-01T15:24:46Z","artist":"Nina Badric","song":"Alive"}
-{"ts":"2026-01-01T15:26:47Z","artist":"Vlado Georgiev","song":"Hej Ti"}
-{"ts":"2026-01-01T15:32:50Z","artist":"Nevena","song":"Produzi dalje"}
-{"ts":"2026-01-01T15:34:50Z","artist":"Knez","song":"Tina bambina"}
-{"ts":"2026-01-01T15:44:54Z","artist":"Tose Proeski","song":"Lose ti stoji"}
-{"ts":"2026-01-01T15:48:56Z","artist":"Tasa Krunic","song":"Slomljena"}
-{"ts":"2026-01-01T15:50:56Z","artist":"Sasa Kovacevic","song":"Bez tebe me nema"}
-{"ts":"2026-01-01T15:54:58Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
-{"ts":"2026-01-01T16:03:02Z","artist":"Nemanja Radosevic","song":"Prstima"}
-{"ts":"2026-01-01T16:11:04Z","artist":"Jelena Tomasevic","song":"Zivot u koferima"}
-{"ts":"2026-01-01T16:23:10Z","artist":"Dino Merlin","song":"Rudar"}
-{"ts":"2026-01-01T16:31:14Z","artist":"Ana Stanic","song":"Ne zna ona 2024."}
-{"ts":"2026-01-01T16:35:16Z","artist":"Colonia","song":"Oduzimas mi dah (Acoustic radio mix)"}
-{"ts":"2026-01-01T16:37:16Z","artist":"Edita","song":"Ja sam tvoj dom"}
-{"ts":"2026-01-01T16:43:18Z","artist":"Tony Cetinski","song":"Onaj Ko Te Ljubi Sretan Je"}
-{"ts":"2026-01-01T16:47:20Z","artist":"Dana Karic","song":"Ja ti zelim srecu"}
-{"ts":"2026-01-01T16:51:21Z","artist":"Dr. Iggy","song":"Oci boje duge"}
-{"ts":"2026-01-01T16:57:24Z","artist":"Sergej Cetkovic","song":"Kad bi htjela ti"}
-{"ts":"2026-01-01T17:03:26Z","artist":"Dino Merlin","song":"Skoljka"}
-{"ts":"2026-01-01T17:07:28Z","artist":"Natasa Bekvalac","song":"Dobro moje"}
-{"ts":"2026-01-01T17:11:29Z","artist":"Amadeus","song":"Kupi me"}
-{"ts":"2026-01-01T17:15:31Z","artist":"Amel Curic feat. Emina Jahovic","song":"Kost"}
-{"ts":"2026-01-01T17:19:32Z","artist":"ET","song":"Tek Je 12 Sati"}
-{"ts":"2026-01-01T17:27:35Z","artist":"Zeljko Joksimovic","song":"Milimetar"}
-{"ts":"2026-01-01T17:33:37Z","artist":"Dzenan Loncarevic","song":"Kosava"}
-{"ts":"2026-01-01T17:37:40Z","artist":"Goca Trzan","song":"Sreco Necija"}
-{"ts":"2026-01-01T17:51:45Z","artist":"Romana","song":"Kad mi gore obrazi"}
-{"ts":"2026-01-01T17:53:46Z","artist":"Sasa Kovacevic","song":"Nocna ikona"}
-{"ts":"2026-01-01T17:57:48Z","artist":"Merlin","song":"Hitna"}
-{"ts":"2026-01-01T18:05:51Z","artist":"Sergej Cetkovic","song":"Kad bi htjela ti"}
-{"ts":"2026-01-01T18:09:53Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
-{"ts":"2026-01-01T18:11:53Z","artist":"Ed Sheeran","song":"Celestial"}
-{"ts":"2026-01-01T18:15:55Z","artist":"Andrea Demirovic","song":"Sama"}
-{"ts":"2026-01-01T18:21:57Z","artist":"Massimo","song":"Stranac u noci ft. Nina Badric"}
-{"ts":"2026-01-01T18:32:02Z","artist":"Riblja Corba","song":"Kad sam bio mlad"}
-{"ts":"2026-01-01T18:46:09Z","artist":"Dana Karic x Srdjan Lazic x Igor Simic","song":"Kraj"}
-{"ts":"2026-01-01T18:50:11Z","artist":"Zeljko Vasic","song":"Zena Kao Ti"}
-{"ts":"2026-01-01T18:54:12Z","artist":"Senidah","song":"Level"}
-{"ts":"2026-01-01T18:56:13Z","artist":"Zeljko Joksimovic","song":"Devojka"}
-{"ts":"2026-01-01T19:02:16Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
-{"ts":"2026-01-01T19:08:19Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
-{"ts":"2026-01-01T19:14:20Z","artist":"Danijela Karic i Ivan Mileusnic","song":"Zajedno"}
-{"ts":"2026-01-01T19:18:22Z","artist":"Bijelo Dugme","song":"Ako ima Boga"}
-{"ts":"2026-01-01T19:26:25Z","artist":"Jelena Rozga","song":"Od cega sam ja"}
-{"ts":"2026-01-01T19:28:26Z","artist":"Vlado Georgiev","song":"Bolesni od ljubavi"}
-{"ts":"2026-01-01T19:38:30Z","artist":"Karolina (ft Vlatko Stefanovski)","song":"Vise se ne vracam"}
-{"ts":"2026-01-01T19:40:30Z","artist":"S.A.R.S.","song":"Veruj mi"}
-{"ts":"2026-01-01T19:44:32Z","artist":"Boris Rezak","song":"Andjeo"}
-{"ts":"2026-01-01T19:48:34Z","artist":"Miach","song":"Iluzija"}
-{"ts":"2026-01-01T19:50:34Z","artist":"Aleksandra Radovic","song":"Ljubavi moja"}
-{"ts":"2026-01-01T19:54:35Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-01T19:58:38Z","artist":"Merlin","song":"Da Sutis (indigo)"}
-{"ts":"2026-01-01T20:02:39Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-01T20:08:41Z","artist":"Dzordzi","song":"Luna park"}
-{"ts":"2026-01-01T20:12:42Z","artist":"Dino Dvornik","song":"Ti Si Mi U Mislima"}
-{"ts":"2026-01-01T20:20:46Z","artist":"Kameny ft. Iva Curic","song":"Ranjeni"}
-{"ts":"2026-01-01T20:24:47Z","artist":"Crvena Jabuka","song":"Vjetar"}
-{"ts":"2026-01-01T20:36:41Z","artist":"Tose Proeski","song":"Boze brani je od zla"}
-{"ts":"2026-01-01T20:40:43Z","artist":"Neverne Bebe","song":"Balkan"}
-{"ts":"2026-01-01T20:46:44Z","artist":"Sergej Cetkovic","song":"Zar je kraj"}
-{"ts":"2026-01-01T20:58:50Z","artist":"Angellina","song":"Na tvojim rukama"}
-{"ts":"2026-01-01T21:06:54Z","artist":"Bijelo Dugme","song":"Na zadnjem sjedistu moga auta"}
-{"ts":"2026-01-01T21:10:56Z","artist":"Amna","song":"Lagana"}
-{"ts":"2026-01-01T21:12:57Z","artist":"Petar Graso","song":"Voli me"}
-{"ts":"2026-01-01T21:25:02Z","artist":"Jelena Tomasevic","song":"Radio Svira Za Nas"}
-{"ts":"2026-01-01T21:29:03Z","artist":"Tony Cetinski","song":"Svaka tvoja laz"}
-{"ts":"2026-01-01T21:33:05Z","artist":"Boris Novkovic","song":"Ko sam bez tebe"}
-{"ts":"2026-01-01T21:37:06Z","artist":"Nevena Bozovic","song":"Ljubav u bojama"}
-{"ts":"2026-01-01T21:41:08Z","artist":"Zeljko Joksimovic","song":"Ludak Kao Ja"}
-{"ts":"2026-01-01T21:45:09Z","artist":"Tasa Krunic","song":"Slomljena"}
-{"ts":"2026-01-01T21:47:10Z","artist":"Dino Merlin","song":"Hotel Nacional"}
-{"ts":"2026-01-01T21:51:12Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-01T21:55:13Z","artist":"Twocolors","song":"Lovefool"}
-{"ts":"2026-01-01T21:57:14Z","artist":"Edita","song":"00 08"}
-{"ts":"2026-01-01T22:07:18Z","artist":"Sara Jo x Predrag Simic","song":"Kao nikada pre"}
-{"ts":"2026-01-01T22:09:19Z","artist":"Oliver Dragojevic","song":"Tesko te zaboravljam"}
-{"ts":"2026-01-01T22:13:21Z","artist":"Knez","song":"Falis mi ti"}
-{"ts":"2026-01-01T22:15:22Z","artist":"Sergej Cetkovic","song":"1000 razloga"}
-{"ts":"2026-01-01T22:19:23Z","artist":"Ana Stanic","song":"Moje"}
-{"ts":"2026-01-01T22:23:25Z","artist":"ET","song":"Ne trazi ljubav"}
-{"ts":"2026-01-01T22:31:28Z","artist":"SevdahBABY ft. Shobaja","song":"3 poljupca"}
-{"ts":"2026-01-01T22:35:29Z","artist":"Jakov Jozinovic","song":"Polje ruza"}
-{"ts":"2026-01-01T22:37:30Z","artist":"Kiki Lesendric","song":"Te noci smo se potukli zbog nje"}
-{"ts":"2026-01-01T22:47:35Z","artist":"The Weeknd","song":"Sacrifice"}
-{"ts":"2026-01-01T22:49:35Z","artist":"Amna","song":"Topi Me"}
-{"ts":"2026-01-01T22:53:38Z","artist":"Riblja Corba","song":"Dobro jutro"}
-{"ts":"2026-01-01T22:55:38Z","artist":"Henny","song":"Seti Me Se"}
-{"ts":"2026-01-01T23:11:45Z","artist":"Tony Cetinski","song":"Umirem 100x dnevno"}
-{"ts":"2026-01-01T23:15:48Z","artist":"Nina Todorovic","song":"Idealan Tim"}
-{"ts":"2026-01-01T23:17:48Z","artist":"Djordje Balasevic","song":"Andjela"}
-{"ts":"2026-01-01T23:21:49Z","artist":"Nika Turkovic","song":"Sutra"}
-{"ts":"2026-01-01T23:23:51Z","artist":"Zeljko Joksimovic","song":"Crnokosa"}
-{"ts":"2026-01-01T23:27:52Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
-{"ts":"2026-01-01T23:29:52Z","artist":"Vlado Georgiev","song":"Mi nismo mi"}
-{"ts":"2026-01-01T23:37:56Z","artist":"Sting","song":"Desert Rose"}
-{"ts":"2026-01-01T23:43:59Z","artist":"Dino Dvornik","song":"Lady"}
-{"ts":"2026-01-01T23:48:00Z","artist":"Devita x Teodora","song":"Vudu (Covered by Tara)"}
+{"ts":"2026-01-01T13:12:01Z","artist":"Coldplay feat. Beyonce","song":"Hymn for the Weekend"}
+{"ts":"2026-01-01T13:16:01Z","artist":"Marija Serifovic","song":"Idi dok te volim"}
+{"ts":"2026-01-01T13:22:01Z","artist":"Dino Dvornik","song":"Od Splita do Beograda (Ove noci)"}
+{"ts":"2026-01-01T13:32:01Z","artist":"Boris Rezak","song":"Pokora"}
+{"ts":"2026-01-01T13:36:01Z","artist":"Knez","song":"Falis mi ti"}
+{"ts":"2026-01-01T13:42:01Z","artist":"Aleksandra Radovic","song":"Vlak"}
+{"ts":"2026-01-01T13:46:01Z","artist":"Jelena Rozga","song":"Kad nema ljubavi"}
+{"ts":"2026-01-01T13:48:01Z","artist":"Djordje Balasevic","song":"Jaroslava"}
+{"ts":"2026-01-01T13:52:01Z","artist":"NipplePeople","song":"Sutra"}
+{"ts":"2026-01-01T13:56:01Z","artist":"ET","song":"Sve bih dala da znam"}
+{"ts":"2026-01-01T14:00:01Z","artist":"Edita","song":"Slobodno me rani"}
+{"ts":"2026-01-01T14:04:02Z","artist":"Hiljson Mandela x Miach","song":"Andjeo"}
+{"ts":"2026-01-01T14:10:01Z","artist":"Coby","song":"Leto je"}
+{"ts":"2026-01-01T14:12:01Z","artist":"Senidah","song":"Replay"}
+{"ts":"2026-01-01T14:16:01Z","artist":"Zoi","song":"Jasno mi je"}
+{"ts":"2026-01-01T14:22:01Z","artist":"Emina Jahovic","song":"Dodirni me"}
+{"ts":"2026-01-01T14:24:02Z","artist":"Angellina","song":"Pile moje"}
+{"ts":"2026-01-01T14:28:01Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
+{"ts":"2026-01-01T14:42:01Z","artist":"Sergej Pajic x Edita","song":"Rio Rio"}
+{"ts":"2026-01-01T14:46:01Z","artist":"Devito x Bajaga","song":"Astronaut"}
+{"ts":"2026-01-01T14:56:01Z","artist":"Tijana Bogicevic","song":"Nekako nikako"}
+{"ts":"2026-01-01T15:12:02Z","artist":"Sara Jo","song":"Bez Sna"}
+{"ts":"2026-01-01T15:16:01Z","artist":"Aleksandra Radovic","song":"Ne hvala"}
+{"ts":"2026-01-01T15:20:01Z","artist":"Zeljko Vasic","song":"Nisam Od Juce"}
+{"ts":"2026-01-01T15:24:01Z","artist":"Nina Badric","song":"Alive"}
+{"ts":"2026-01-01T15:28:01Z","artist":"Vlado Georgiev","song":"Hej Ti"}
+{"ts":"2026-01-01T15:32:01Z","artist":"Nevena","song":"Produzi dalje"}
+{"ts":"2026-01-01T15:36:01Z","artist":"Knez","song":"Tina bambina"}
+{"ts":"2026-01-01T15:46:01Z","artist":"Tose Proeski","song":"Lose ti stoji"}
+{"ts":"2026-01-01T15:50:02Z","artist":"Tasa Krunic","song":"Slomljena"}
+{"ts":"2026-01-01T15:52:01Z","artist":"Sasa Kovacevic","song":"Bez tebe me nema"}
+{"ts":"2026-01-01T15:56:01Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
+{"ts":"2026-01-01T16:02:01Z","artist":"Nemanja Radosevic","song":"Prstima"}
+{"ts":"2026-01-01T16:12:01Z","artist":"Jelena Tomasevic","song":"Zivot u koferima"}
+{"ts":"2026-01-01T16:22:01Z","artist":"Dino Merlin","song":"Rudar"}
+{"ts":"2026-01-01T16:32:01Z","artist":"Ana Stanic","song":"Ne zna ona 2024."}
+{"ts":"2026-01-01T16:34:01Z","artist":"Colonia","song":"Oduzimas mi dah (Acoustic radio mix)"}
+{"ts":"2026-01-01T16:38:02Z","artist":"Edita","song":"Ja sam tvoj dom"}
+{"ts":"2026-01-01T16:44:02Z","artist":"Tony Cetinski","song":"Onaj Ko Te Ljubi Sretan Je"}
+{"ts":"2026-01-01T16:48:01Z","artist":"Dana Karic","song":"Ja ti zelim srecu"}
+{"ts":"2026-01-01T16:50:02Z","artist":"Dr. Iggy","song":"Oci boje duge"}
+{"ts":"2026-01-01T16:58:02Z","artist":"Sergej Cetkovic","song":"Kad bi htjela ti"}
+{"ts":"2026-01-01T17:04:01Z","artist":"Dino Merlin","song":"Skoljka"}
+{"ts":"2026-01-01T17:08:01Z","artist":"Natasa Bekvalac","song":"Dobro moje"}
+{"ts":"2026-01-01T17:12:02Z","artist":"Amadeus","song":"Kupi me"}
+{"ts":"2026-01-01T17:16:01Z","artist":"Amel Curic feat. Emina Jahovic","song":"Kost"}
+{"ts":"2026-01-01T17:18:02Z","artist":"ET","song":"Tek Je 12 Sati"}
+{"ts":"2026-01-01T17:28:01Z","artist":"Zeljko Joksimovic","song":"Milimetar"}
+{"ts":"2026-01-01T17:34:01Z","artist":"Dzenan Loncarevic","song":"Kosava"}
+{"ts":"2026-01-01T17:38:01Z","artist":"Goca Trzan","song":"Sreco Necija"}
+{"ts":"2026-01-01T17:52:01Z","artist":"Romana","song":"Kad mi gore obrazi"}
+{"ts":"2026-01-01T17:54:02Z","artist":"Sasa Kovacevic","song":"Nocna ikona"}
+{"ts":"2026-01-01T17:58:01Z","artist":"Merlin","song":"Hitna"}
+{"ts":"2026-01-01T18:06:01Z","artist":"Sergej Cetkovic","song":"Kad bi htjela ti"}
+{"ts":"2026-01-01T18:10:01Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
+{"ts":"2026-01-01T18:12:01Z","artist":"Ed Sheeran","song":"Celestial"}
+{"ts":"2026-01-01T18:16:01Z","artist":"Andrea Demirovic","song":"Sama"}
+{"ts":"2026-01-01T18:22:01Z","artist":"Massimo","song":"Stranac u noci ft. Nina Badric"}
+{"ts":"2026-01-01T18:32:01Z","artist":"Riblja Corba","song":"Kad sam bio mlad"}
+{"ts":"2026-01-01T18:46:01Z","artist":"Dana Karic x Srdjan Lazic x Igor Simic","song":"Kraj"}
+{"ts":"2026-01-01T18:50:01Z","artist":"Zeljko Vasic","song":"Zena Kao Ti"}
+{"ts":"2026-01-01T18:54:02Z","artist":"Senidah","song":"Level"}
+{"ts":"2026-01-01T18:56:01Z","artist":"Zeljko Joksimovic","song":"Devojka"}
+{"ts":"2026-01-01T19:02:01Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
+{"ts":"2026-01-01T19:08:02Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-01T19:14:02Z","artist":"Danijela Karic i Ivan Mileusnic","song":"Zajedno"}
+{"ts":"2026-01-01T19:18:01Z","artist":"Bijelo Dugme","song":"Ako ima Boga"}
+{"ts":"2026-01-01T19:26:01Z","artist":"Jelena Rozga","song":"Od cega sam ja"}
+{"ts":"2026-01-01T19:30:01Z","artist":"Vlado Georgiev","song":"Bolesni od ljubavi"}
+{"ts":"2026-01-01T19:38:01Z","artist":"Karolina (ft Vlatko Stefanovski)","song":"Vise se ne vracam"}
+{"ts":"2026-01-01T19:42:02Z","artist":"S.A.R.S.","song":"Veruj mi"}
+{"ts":"2026-01-01T19:44:01Z","artist":"Boris Rezak","song":"Andjeo"}
+{"ts":"2026-01-01T19:48:02Z","artist":"Miach","song":"Iluzija"}
+{"ts":"2026-01-01T19:52:01Z","artist":"Aleksandra Radovic","song":"Ljubavi moja"}
+{"ts":"2026-01-01T19:56:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-01T20:00:01Z","artist":"Merlin","song":"Da Sutis (indigo)"}
+{"ts":"2026-01-01T20:04:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
+{"ts":"2026-01-01T20:10:01Z","artist":"Dzordzi","song":"Luna park"}
+{"ts":"2026-01-01T20:12:01Z","artist":"Dino Dvornik","song":"Ti Si Mi U Mislima"}
+{"ts":"2026-01-01T20:20:02Z","artist":"Kameny ft. Iva Curic","song":"Ranjeni"}
+{"ts":"2026-01-01T20:24:01Z","artist":"Crvena Jabuka","song":"Vjetar"}
+{"ts":"2026-01-01T20:32:01Z","artist":"Tose Proeski","song":"Boze brani je od zla"}
+{"ts":"2026-01-01T20:40:02Z","artist":"Neverne Bebe","song":"Balkan"}
+{"ts":"2026-01-01T20:48:02Z","artist":"Sergej Cetkovic","song":"Zar je kraj"}
+{"ts":"2026-01-01T20:58:01Z","artist":"Angellina","song":"Na tvojim rukama"}
+{"ts":"2026-01-01T21:08:02Z","artist":"Bijelo Dugme","song":"Na zadnjem sjedistu moga auta"}
+{"ts":"2026-01-01T21:12:01Z","artist":"Amna","song":"Lagana"}
+{"ts":"2026-01-01T21:14:01Z","artist":"Petar Graso","song":"Voli me"}
+{"ts":"2026-01-01T21:26:01Z","artist":"Jelena Tomasevic","song":"Radio Svira Za Nas"}
+{"ts":"2026-01-01T21:28:01Z","artist":"Tony Cetinski","song":"Svaka tvoja laz"}
+{"ts":"2026-01-01T21:32:01Z","artist":"Boris Novkovic","song":"Ko sam bez tebe"}
+{"ts":"2026-01-01T21:38:01Z","artist":"Nevena Bozovic","song":"Ljubav u bojama"}
+{"ts":"2026-01-01T21:40:01Z","artist":"Zeljko Joksimovic","song":"Ludak Kao Ja"}
+{"ts":"2026-01-01T21:44:01Z","artist":"Tasa Krunic","song":"Slomljena"}
+{"ts":"2026-01-01T21:48:02Z","artist":"Dino Merlin","song":"Hotel Nacional"}
+{"ts":"2026-01-01T21:52:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-01T21:54:02Z","artist":"Twocolors","song":"Lovefool"}
+{"ts":"2026-01-01T21:58:01Z","artist":"Edita","song":"00 08"}
+{"ts":"2026-01-01T22:06:01Z","artist":"Sara Jo x Predrag Simic","song":"Kao nikada pre"}
+{"ts":"2026-01-01T22:08:02Z","artist":"Oliver Dragojevic","song":"Tesko te zaboravljam"}
+{"ts":"2026-01-01T22:12:01Z","artist":"Knez","song":"Falis mi ti"}
+{"ts":"2026-01-01T22:16:01Z","artist":"Sergej Cetkovic","song":"1000 razloga"}
+{"ts":"2026-01-01T22:20:02Z","artist":"Ana Stanic","song":"Moje"}
+{"ts":"2026-01-01T22:24:01Z","artist":"ET","song":"Ne trazi ljubav"}
+{"ts":"2026-01-01T22:32:01Z","artist":"SevdahBABY ft. Shobaja","song":"3 poljupca"}
+{"ts":"2026-01-01T22:34:02Z","artist":"Jakov Jozinovic","song":"Polje ruza"}
+{"ts":"2026-01-01T22:38:01Z","artist":"Kiki Lesendric","song":"Te noci smo se potukli zbog nje"}
+{"ts":"2026-01-01T22:46:01Z","artist":"The Weeknd","song":"Sacrifice"}
+{"ts":"2026-01-01T22:50:01Z","artist":"Amna","song":"Topi Me"}
+{"ts":"2026-01-01T22:52:01Z","artist":"Riblja Corba","song":"Dobro jutro"}
+{"ts":"2026-01-01T22:56:01Z","artist":"Henny","song":"Seti Me Se"}
+{"ts":"2026-01-01T23:12:01Z","artist":"Tony Cetinski","song":"Umirem 100x dnevno"}
+{"ts":"2026-01-01T23:16:02Z","artist":"Nina Todorovic","song":"Idealan Tim"}
+{"ts":"2026-01-01T23:18:01Z","artist":"Djordje Balasevic","song":"Andjela"}
+{"ts":"2026-01-01T23:20:01Z","artist":"Nika Turkovic","song":"Sutra"}
+{"ts":"2026-01-01T23:24:01Z","artist":"Zeljko Joksimovic","song":"Crnokosa"}
+{"ts":"2026-01-01T23:28:02Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
+{"ts":"2026-01-01T23:30:01Z","artist":"Vlado Georgiev","song":"Mi nismo mi"}
+{"ts":"2026-01-01T23:38:01Z","artist":"Sting","song":"Desert Rose"}
+{"ts":"2026-01-01T23:44:01Z","artist":"Dino Dvornik","song":"Lady"}
+{"ts":"2026-01-01T23:48:02Z","artist":"Devita x Teodora","song":"Vudu (Covered by Tara)"}
 {"ts":"2026-01-01T23:50:01Z","artist":"Sara Jo x Edita","song":"Varalica"}
-{"ts":"2026-01-01T23:54:03Z","artist":"Vanna","song":"Ako je vrijedilo ista"}
-{"ts":"2026-01-01T23:58:05Z","artist":"Dino Merlin","song":"Rudar"}
-{"ts":"2026-01-02T00:02:06Z","artist":"Dado Glisic","song":"Neponovljiva"}
-{"ts":"2026-01-02T00:14:12Z","artist":"Aleksandra Radovic","song":"Prave Ljubavi"}
-{"ts":"2026-01-02T00:18:14Z","artist":"Petar Graso","song":"Ako te pitaju"}
-{"ts":"2026-01-02T00:22:15Z","artist":"Senidah","song":"Ti i Ja"}
-{"ts":"2026-01-02T00:26:17Z","artist":"irieFM","song":"Klizis"}
-{"ts":"2026-01-02T00:30:18Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
-{"ts":"2026-01-02T00:32:19Z","artist":"Harry Styles","song":"Late Night Talking"}
-{"ts":"2026-01-02T00:38:22Z","artist":"Piloti","song":"Svet je lep kada sanjamo"}
-{"ts":"2026-01-02T00:40:23Z","artist":"Nina Todorovic","song":"Fali Tren"}
-{"ts":"2026-01-02T00:42:23Z","artist":"Ana Stanic","song":"Bolesni"}
-{"ts":"2026-01-02T00:46:25Z","artist":"Gibonni","song":"Nije Tajna"}
-{"ts":"2026-01-02T00:52:26Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
-{"ts":"2026-01-02T00:54:27Z","artist":"Zeljko Vasic","song":"Ti i ja"}
-{"ts":"2026-01-02T01:02:31Z","artist":"Nina Badric","song":"Moja ljubav"}
-{"ts":"2026-01-02T01:06:33Z","artist":"Sasa Kovacevic","song":"Temperatura"}
-{"ts":"2026-01-02T01:18:38Z","artist":"Sergej Cetkovic","song":"Istine i Lazi"}
-{"ts":"2026-01-02T01:26:42Z","artist":"Breskvica","song":"Leptir"}
-{"ts":"2026-01-02T01:28:42Z","artist":"Galija","song":"Trube"}
-{"ts":"2026-01-02T01:32:43Z","artist":"Zoi","song":"Eto"}
-{"ts":"2026-01-02T01:36:45Z","artist":"Parni Valjak","song":"Ponovo"}
-{"ts":"2026-01-02T01:38:46Z","artist":"Vlado Georgiev","song":"Reci mi da znam"}
-{"ts":"2026-01-02T01:42:47Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
-{"ts":"2026-01-02T01:46:50Z","artist":"Bojan Marovic","song":"Neka te ljubi"}
-{"ts":"2026-01-02T01:50:51Z","artist":"Dino Merlin","song":"Krive karte"}
-{"ts":"2026-01-02T01:54:53Z","artist":"Petar Graso feat. Doris Dragovic","song":"Sto Je Od Mene Ostalo"}
-{"ts":"2026-01-02T01:58:55Z","artist":"Magla Bend","song":"Uragani"}
-{"ts":"2026-01-02T02:06:58Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-02T02:10:59Z","artist":"Tijana Dapcevic","song":"Reset"}
-{"ts":"2026-01-02T02:15:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-02T02:17:02Z","artist":"Craig David","song":"Rise And Fall (ft. Sting)"}
-{"ts":"2026-01-02T02:21:03Z","artist":"Marija Serifovic","song":"Dobar vam dan"}
-{"ts":"2026-01-02T02:25:05Z","artist":"Oliver Dragojevic","song":"Vjeruj mi"}
-{"ts":"2026-01-02T02:29:07Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
-{"ts":"2026-01-02T02:31:08Z","artist":"Emina Jahovic","song":"Kriziram"}
-{"ts":"2026-01-02T02:35:09Z","artist":"Tose Proeski","song":"Soba za tugu"}
-{"ts":"2026-01-02T02:41:05Z","artist":"Aleksandra Radovic","song":"Kao so u moru"}
-{"ts":"2026-01-02T02:45:06Z","artist":"Marko Louis","song":"Ruzice"}
-{"ts":"2026-01-02T02:49:09Z","artist":"Moby Dick","song":"Nostalgija"}
-{"ts":"2026-01-02T02:53:10Z","artist":"Edita x Dzordzi","song":"Etida"}
-{"ts":"2026-01-02T02:55:11Z","artist":"Ana Bebic","song":"Prezivecu"}
-{"ts":"2026-01-02T02:59:13Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
-{"ts":"2026-01-02T03:01:13Z","artist":"Sergej Cetkovic","song":"Nazovi me"}
-{"ts":"2026-01-02T03:05:15Z","artist":"Angellina","song":"Na tvojim rukama"}
-{"ts":"2026-01-02T03:21:23Z","artist":"Nevena Bozovic","song":"Sanjam"}
-{"ts":"2026-01-02T03:25:25Z","artist":"Vesna Pisarovic","song":"Da znas"}
-{"ts":"2026-01-02T03:33:28Z","artist":"Dino Merlin","song":"Ako izgovorim ljubav"}
-{"ts":"2026-01-02T03:39:30Z","artist":"Gibonni","song":"Libar"}
-{"ts":"2026-01-02T03:43:32Z","artist":"Sara Jo","song":"Kazi mi"}
-{"ts":"2026-01-02T03:47:33Z","artist":"Zeljko Vasic","song":"Kad si s njim"}
-{"ts":"2026-01-02T03:49:34Z","artist":"Tasa Krunic","song":"Slomljena"}
-{"ts":"2026-01-02T03:55:37Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-02T04:01:39Z","artist":"Sasa Kovacevic","song":"Radi me lagano"}
-{"ts":"2026-01-02T04:03:40Z","artist":"Crvena Jabuka","song":"Tuga ti i ja"}
-{"ts":"2026-01-02T04:07:41Z","artist":"Tara","song":"Modra zora"}
-{"ts":"2026-01-02T04:11:42Z","artist":"Marija Serifovic","song":"Svoja i tvoja"}
-{"ts":"2026-01-02T04:21:47Z","artist":"Colonia","song":"Lazu oci moje"}
-{"ts":"2026-01-02T04:25:50Z","artist":"Zoe Kida","song":"Voli me"}
-{"ts":"2026-01-02T04:27:51Z","artist":"Vlado Georgiev","song":"Sama bez ljubavi"}
-{"ts":"2026-01-02T04:31:52Z","artist":"Angellina","song":"Stani zoro"}
-{"ts":"2026-01-02T04:33:53Z","artist":"Kiki Lesendric","song":"Kako si lepa"}
-{"ts":"2026-01-02T04:37:55Z","artist":"Jakov Jozinovic","song":"Polje ruza"}
-{"ts":"2026-01-02T04:41:56Z","artist":"Nina Badric","song":"Dodiri od stakla"}
-{"ts":"2026-01-02T04:45:58Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
-{"ts":"2026-01-02T04:52:00Z","artist":"Nevena","song":"Ogledalo"}
-{"ts":"2026-01-02T04:56:02Z","artist":"Zana","song":"Vojna posta"}
-{"ts":"2026-01-02T05:02:04Z","artist":"Ivona","song":"Znam"}
-{"ts":"2026-01-02T05:04:05Z","artist":"Oliver Dragojevic","song":"Sve bi da za nju"}
-{"ts":"2026-01-02T05:08:06Z","artist":"Knez","song":"Falis mi ti"}
-{"ts":"2026-01-02T05:12:08Z","artist":"Aleksandra Radovic","song":"Mali peh"}
-{"ts":"2026-01-02T05:18:11Z","artist":"Zoi","song":"Bez tebe"}
-{"ts":"2026-01-02T05:20:11Z","artist":"Bojan Marovic","song":"Za svaki slucaj"}
-{"ts":"2026-01-02T05:24:13Z","artist":"Franka","song":"Prezivjet cu"}
-{"ts":"2026-01-02T05:28:15Z","artist":"Tony Cetinski","song":"Zbogom odlazim"}
-{"ts":"2026-01-02T05:32:16Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
-{"ts":"2026-01-02T05:34:17Z","artist":"Crvena Jabuka","song":"Ti mi dusu uzimas"}
-{"ts":"2026-01-02T05:40:19Z","artist":"Sabrina Carpenter","song":"Espresso"}
-{"ts":"2026-01-02T05:44:21Z","artist":"Dino Merlin","song":"Mi"}
-{"ts":"2026-01-02T05:48:22Z","artist":"Oliver Mandic","song":"Pomagajte drugovi"}
-{"ts":"2026-01-02T05:52:23Z","artist":"Miach","song":"NLO (feat. Hiljson Mandela)"}
-{"ts":"2026-01-02T05:54:25Z","artist":"Sasa Kovacevic","song":"Moja Malena"}
-{"ts":"2026-01-02T05:58:26Z","artist":"Moby Dick","song":"Ulica i broj"}
-{"ts":"2026-01-02T06:02:27Z","artist":"Senidah","song":"Lanci Ljubavi"}
-{"ts":"2026-01-02T06:14:33Z","artist":"Dee Monk","song":"Samo Zelim Da Znam"}
-{"ts":"2026-01-02T06:16:35Z","artist":"Angellina","song":"Beskraj"}
-{"ts":"2026-01-02T06:20:36Z","artist":"Vlado Georgiev","song":"Tebe zedan"}
-{"ts":"2026-01-02T06:26:38Z","artist":"Devito x Bajaga","song":"Astronaut"}
-{"ts":"2026-01-02T06:30:40Z","artist":"Neverne Bebe","song":"Tu kraj nas"}
-{"ts":"2026-01-02T06:34:41Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
-{"ts":"2026-01-02T06:36:42Z","artist":"Shawn Mendes","song":"When Youre Gone"}
-{"ts":"2026-01-02T06:46:46Z","artist":"Zdravko Colic","song":"Negde na dnu srca"}
-{"ts":"2026-01-02T06:50:47Z","artist":"Ema x Albino","song":"Tajno moja"}
-{"ts":"2026-01-02T06:52:47Z","artist":"Zeljko Vasic","song":"Jedna ljubav manje vise"}
-{"ts":"2026-01-02T06:56:49Z","artist":"Zana","song":"Mala"}
-{"ts":"2026-01-02T07:00:51Z","artist":"Nina Badric","song":"Alive"}
-{"ts":"2026-01-02T07:04:52Z","artist":"Tony Cetinski","song":"Sto Si Ti Meni"}
-{"ts":"2026-01-02T07:08:54Z","artist":"Lena Kovacevic","song":"Tako Lako"}
-{"ts":"2026-01-02T07:14:56Z","artist":"Amna","song":"Srce laneno"}
-{"ts":"2026-01-02T07:27:01Z","artist":"Sergej Cetkovic","song":"Kad bi htjela ti"}
-{"ts":"2026-01-02T07:35:06Z","artist":"Ed Sheeran","song":"Celestial"}
-{"ts":"2026-01-02T07:37:06Z","artist":"Andrea Demirovic","song":"Sama"}
-{"ts":"2026-01-02T07:41:09Z","artist":"Massimo","song":"Stranac u noci ft. Nina Badric"}
-{"ts":"2026-01-02T07:49:12Z","artist":"Albino","song":"Dishi"}
-{"ts":"2026-01-02T07:51:12Z","artist":"Kaliopi","song":"Kad osvane"}
-{"ts":"2026-01-02T07:55:13Z","artist":"Riblja Corba","song":"Kad sam bio mlad"}
-{"ts":"2026-01-02T07:59:16Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
-{"ts":"2026-01-02T08:01:16Z","artist":"Tony Cetinski","song":"Treba Imat Dusu"}
-{"ts":"2026-01-02T08:05:17Z","artist":"Dana Karic x Srdjan Lazic x Igor Simic","song":"Kraj"}
-{"ts":"2026-01-02T08:09:19Z","artist":"Zeljko Vasic","song":"Zena Kao Ti"}
-{"ts":"2026-01-02T08:13:21Z","artist":"Senidah","song":"Level"}
-{"ts":"2026-01-02T08:17:22Z","artist":"Zeljko Joksimovic","song":"Devojka"}
-{"ts":"2026-01-02T08:27:27Z","artist":"Dado Glisic","song":"Sto bespuca"}
-{"ts":"2026-01-02T08:37:22Z","artist":"Danijela Karic i Ivan Mileusnic","song":"Zajedno"}
-{"ts":"2026-01-02T08:39:22Z","artist":"Bijelo Dugme","song":"Ako ima Boga"}
-{"ts":"2026-01-02T08:49:25Z","artist":"Jelena Rozga","song":"Od cega sam ja"}
-{"ts":"2026-01-02T08:57:26Z","artist":"Sasa Kovacevic","song":"Romeo"}
-{"ts":"2026-01-02T09:01:27Z","artist":"Parni Valjak","song":"Ugasi me"}
-{"ts":"2026-01-02T09:03:28Z","artist":"Kerber","song":"Bolje da sam druge ljubio"}
-{"ts":"2026-01-02T09:07:28Z","artist":"Azra","song":"A sta da radim"}
-{"ts":"2026-01-02T09:09:29Z","artist":"Van Gogh","song":"Neko te ima"}
-{"ts":"2026-01-02T09:13:30Z","artist":"Zabranjeno Pusenje","song":"Balada o Pisonji i Zugi"}
-{"ts":"2026-01-02T09:21:31Z","artist":"Bijelo Dugme","song":"Meni Se Ne Spava"}
-{"ts":"2026-01-02T09:25:33Z","artist":"Crvena Jabuka","song":"Twist And Shout (Svidja mi se ova stvar)"}
-{"ts":"2026-01-02T09:31:34Z","artist":"Riblja Corba","song":"Pogledaj dom svoj andjele"}
-{"ts":"2026-01-02T09:35:34Z","artist":"Piloti","song":"Neverna si"}
-{"ts":"2026-01-02T09:37:35Z","artist":"Osvajaci","song":"Pronadji me"}
-{"ts":"2026-01-02T09:45:37Z","artist":"Van Gogh","song":"Za godine tvoje"}
-{"ts":"2026-01-02T09:49:38Z","artist":"Prljavo Kazaliste","song":"Marina"}
-{"ts":"2026-01-02T09:53:38Z","artist":"Djavoli","song":"Pricaj mi o ljubavi"}
-{"ts":"2026-01-02T10:05:41Z","artist":"Zeljko Joksimovic","song":"Ponelo Me"}
-{"ts":"2026-01-02T10:07:41Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-02T10:11:42Z","artist":"John Legend","song":"Love Me Now"}
-{"ts":"2026-01-02T10:15:43Z","artist":"Miach","song":"SMS"}
-{"ts":"2026-01-02T10:21:45Z","artist":"Zana","song":"Dodirni mi kolena"}
-{"ts":"2026-01-02T10:25:46Z","artist":"Henny x Edita","song":"Magla"}
-{"ts":"2026-01-02T10:35:48Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
-{"ts":"2026-01-02T10:45:51Z","artist":"Sergej Cetkovic","song":"Kofer"}
-{"ts":"2026-01-02T10:53:53Z","artist":"Aleksandra Radovic","song":"Neodoljivo"}
-{"ts":"2026-01-02T10:55:54Z","artist":"Tony Cetinski","song":"Kao u snu"}
-{"ts":"2026-01-02T10:59:54Z","artist":"Merlin","song":"Smijehom strah pokrijem"}
-{"ts":"2026-01-02T11:05:55Z","artist":"Sandi Cenov","song":"Rano je za kraj"}
-{"ts":"2026-01-02T11:09:56Z","artist":"Goran Karan","song":"Ja sam samo vagabundo"}
-{"ts":"2026-01-02T11:13:57Z","artist":"Hari Mata Hari","song":"Kad Dodje Oktobar"}
+{"ts":"2026-01-01T23:54:02Z","artist":"Vanna","song":"Ako je vrijedilo ista"}
+{"ts":"2026-01-01T23:58:01Z","artist":"Dino Merlin","song":"Rudar"}
+{"ts":"2026-01-02T00:02:01Z","artist":"Dado Glisic","song":"Neponovljiva"}
+{"ts":"2026-01-02T00:14:02Z","artist":"Aleksandra Radovic","song":"Prave Ljubavi"}
+{"ts":"2026-01-02T00:18:01Z","artist":"Petar Graso","song":"Ako te pitaju"}
+{"ts":"2026-01-02T00:22:01Z","artist":"Senidah","song":"Ti i Ja"}
+{"ts":"2026-01-02T00:26:01Z","artist":"irieFM","song":"Klizis"}
+{"ts":"2026-01-02T00:30:01Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
+{"ts":"2026-01-02T00:32:01Z","artist":"Harry Styles","song":"Late Night Talking"}
+{"ts":"2026-01-02T00:38:01Z","artist":"Piloti","song":"Svet je lep kada sanjamo"}
+{"ts":"2026-01-02T00:42:01Z","artist":"Nina Todorovic","song":"Fali Tren"}
+{"ts":"2026-01-02T00:44:01Z","artist":"Ana Stanic","song":"Bolesni"}
+{"ts":"2026-01-02T00:48:01Z","artist":"Gibonni","song":"Nije Tajna"}
+{"ts":"2026-01-02T00:52:01Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
+{"ts":"2026-01-02T00:56:01Z","artist":"Zeljko Vasic","song":"Ti i ja"}
+{"ts":"2026-01-02T01:02:01Z","artist":"Nina Badric","song":"Moja ljubav"}
+{"ts":"2026-01-02T01:08:02Z","artist":"Sasa Kovacevic","song":"Temperatura"}
+{"ts":"2026-01-02T01:18:01Z","artist":"Sergej Cetkovic","song":"Istine i Lazi"}
+{"ts":"2026-01-02T01:28:01Z","artist":"Breskvica","song":"Leptir"}
+{"ts":"2026-01-02T01:30:01Z","artist":"Galija","song":"Trube"}
+{"ts":"2026-01-02T01:32:01Z","artist":"Zoi","song":"Eto"}
+{"ts":"2026-01-02T01:36:02Z","artist":"Parni Valjak","song":"Ponovo"}
+{"ts":"2026-01-02T01:40:01Z","artist":"Vlado Georgiev","song":"Reci mi da znam"}
+{"ts":"2026-01-02T01:44:01Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
+{"ts":"2026-01-02T01:46:01Z","artist":"Bojan Marovic","song":"Neka te ljubi"}
+{"ts":"2026-01-02T01:50:01Z","artist":"Dino Merlin","song":"Krive karte"}
+{"ts":"2026-01-02T01:56:02Z","artist":"Petar Graso feat. Doris Dragovic","song":"Sto Je Od Mene Ostalo"}
+{"ts":"2026-01-02T02:00:01Z","artist":"Magla Bend","song":"Uragani"}
+{"ts":"2026-01-02T02:06:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-02T02:10:02Z","artist":"Tijana Dapcevic","song":"Reset"}
+{"ts":"2026-01-02T02:14:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
+{"ts":"2026-01-02T02:18:01Z","artist":"Craig David","song":"Rise And Fall (ft. Sting)"}
+{"ts":"2026-01-02T02:22:01Z","artist":"Marija Serifovic","song":"Dobar vam dan"}
+{"ts":"2026-01-02T02:26:01Z","artist":"Oliver Dragojevic","song":"Vjeruj mi"}
+{"ts":"2026-01-02T02:28:01Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
+{"ts":"2026-01-02T02:32:01Z","artist":"Emina Jahovic","song":"Kriziram"}
+{"ts":"2026-01-02T02:34:01Z","artist":"Tose Proeski","song":"Soba za tugu"}
+{"ts":"2026-01-02T02:42:01Z","artist":"Aleksandra Radovic","song":"Kao so u moru"}
+{"ts":"2026-01-02T02:46:01Z","artist":"Marko Louis","song":"Ruzice"}
+{"ts":"2026-01-02T02:48:01Z","artist":"Moby Dick","song":"Nostalgija"}
+{"ts":"2026-01-02T02:52:01Z","artist":"Edita x Dzordzi","song":"Etida"}
+{"ts":"2026-01-02T02:56:02Z","artist":"Ana Bebic","song":"Prezivecu"}
+{"ts":"2026-01-02T02:58:01Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
+{"ts":"2026-01-02T03:02:02Z","artist":"Sergej Cetkovic","song":"Nazovi me"}
+{"ts":"2026-01-02T03:06:01Z","artist":"Angellina","song":"Na tvojim rukama"}
+{"ts":"2026-01-02T03:22:01Z","artist":"Nevena Bozovic","song":"Sanjam"}
+{"ts":"2026-01-02T03:24:02Z","artist":"Vesna Pisarovic","song":"Da znas"}
+{"ts":"2026-01-02T03:32:01Z","artist":"Dino Merlin","song":"Ako izgovorim ljubav"}
+{"ts":"2026-01-02T03:40:01Z","artist":"Gibonni","song":"Libar"}
+{"ts":"2026-01-02T03:44:01Z","artist":"Sara Jo","song":"Kazi mi"}
+{"ts":"2026-01-02T03:46:01Z","artist":"Zeljko Vasic","song":"Kad si s njim"}
+{"ts":"2026-01-02T03:50:01Z","artist":"Tasa Krunic","song":"Slomljena"}
+{"ts":"2026-01-02T03:56:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-02T04:02:01Z","artist":"Sasa Kovacevic","song":"Radi me lagano"}
+{"ts":"2026-01-02T04:04:01Z","artist":"Crvena Jabuka","song":"Tuga ti i ja"}
+{"ts":"2026-01-02T04:08:01Z","artist":"Tara","song":"Modra zora"}
+{"ts":"2026-01-02T04:12:02Z","artist":"Marija Serifovic","song":"Svoja i tvoja"}
+{"ts":"2026-01-02T04:22:01Z","artist":"Colonia","song":"Lazu oci moje"}
+{"ts":"2026-01-02T04:24:01Z","artist":"Zoe Kida","song":"Voli me"}
+{"ts":"2026-01-02T04:28:01Z","artist":"Vlado Georgiev","song":"Sama bez ljubavi"}
+{"ts":"2026-01-02T04:32:02Z","artist":"Angellina","song":"Stani zoro"}
+{"ts":"2026-01-02T04:34:01Z","artist":"Kiki Lesendric","song":"Kako si lepa"}
+{"ts":"2026-01-02T04:38:02Z","artist":"Jakov Jozinovic","song":"Polje ruza"}
+{"ts":"2026-01-02T04:42:01Z","artist":"Nina Badric","song":"Dodiri od stakla"}
+{"ts":"2026-01-02T04:46:01Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
+{"ts":"2026-01-02T04:52:02Z","artist":"Nevena","song":"Ogledalo"}
+{"ts":"2026-01-02T04:56:01Z","artist":"Zana","song":"Vojna posta"}
+{"ts":"2026-01-02T05:02:01Z","artist":"Ivona","song":"Znam"}
+{"ts":"2026-01-02T05:06:02Z","artist":"Oliver Dragojevic","song":"Sve bi da za nju"}
+{"ts":"2026-01-02T05:08:01Z","artist":"Knez","song":"Falis mi ti"}
+{"ts":"2026-01-02T05:12:01Z","artist":"Aleksandra Radovic","song":"Mali peh"}
+{"ts":"2026-01-02T05:18:01Z","artist":"Zoi","song":"Bez tebe"}
+{"ts":"2026-01-02T05:20:01Z","artist":"Bojan Marovic","song":"Za svaki slucaj"}
+{"ts":"2026-01-02T05:24:01Z","artist":"Franka","song":"Prezivjet cu"}
+{"ts":"2026-01-02T05:28:01Z","artist":"Tony Cetinski","song":"Zbogom odlazim"}
+{"ts":"2026-01-02T05:32:01Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
+{"ts":"2026-01-02T05:34:01Z","artist":"Crvena Jabuka","song":"Ti mi dusu uzimas"}
+{"ts":"2026-01-02T05:40:01Z","artist":"Sabrina Carpenter","song":"Espresso"}
+{"ts":"2026-01-02T05:46:01Z","artist":"Dino Merlin","song":"Mi"}
+{"ts":"2026-01-02T05:48:02Z","artist":"Oliver Mandic","song":"Pomagajte drugovi"}
+{"ts":"2026-01-02T05:52:01Z","artist":"Miach","song":"NLO (feat. Hiljson Mandela)"}
+{"ts":"2026-01-02T05:54:01Z","artist":"Sasa Kovacevic","song":"Moja Malena"}
+{"ts":"2026-01-02T05:58:01Z","artist":"Moby Dick","song":"Ulica i broj"}
+{"ts":"2026-01-02T06:02:02Z","artist":"Senidah","song":"Lanci Ljubavi"}
+{"ts":"2026-01-02T06:14:01Z","artist":"Dee Monk","song":"Samo Zelim Da Znam"}
+{"ts":"2026-01-02T06:18:01Z","artist":"Angellina","song":"Beskraj"}
+{"ts":"2026-01-02T06:20:01Z","artist":"Vlado Georgiev","song":"Tebe zedan"}
+{"ts":"2026-01-02T06:26:01Z","artist":"Devito x Bajaga","song":"Astronaut"}
+{"ts":"2026-01-02T06:30:01Z","artist":"Neverne Bebe","song":"Tu kraj nas"}
+{"ts":"2026-01-02T06:34:01Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
+{"ts":"2026-01-02T06:36:01Z","artist":"Shawn Mendes","song":"When Youre Gone"}
+{"ts":"2026-01-02T06:46:01Z","artist":"Zdravko Colic","song":"Negde na dnu srca"}
+{"ts":"2026-01-02T06:50:01Z","artist":"Ema x Albino","song":"Tajno moja"}
+{"ts":"2026-01-02T06:52:01Z","artist":"Zeljko Vasic","song":"Jedna ljubav manje vise"}
+{"ts":"2026-01-02T06:58:01Z","artist":"Zana","song":"Mala"}
+{"ts":"2026-01-02T07:00:01Z","artist":"Nina Badric","song":"Alive"}
+{"ts":"2026-01-02T07:06:01Z","artist":"Tony Cetinski","song":"Sto Si Ti Meni"}
+{"ts":"2026-01-02T07:08:01Z","artist":"Lena Kovacevic","song":"Tako Lako"}
+{"ts":"2026-01-02T07:14:02Z","artist":"Amna","song":"Srce laneno"}
+{"ts":"2026-01-02T07:26:01Z","artist":"Sergej Cetkovic","song":"Kad bi htjela ti"}
+{"ts":"2026-01-02T07:34:02Z","artist":"Ed Sheeran","song":"Celestial"}
+{"ts":"2026-01-02T07:38:01Z","artist":"Andrea Demirovic","song":"Sama"}
+{"ts":"2026-01-02T07:42:01Z","artist":"Massimo","song":"Stranac u noci ft. Nina Badric"}
+{"ts":"2026-01-02T07:48:01Z","artist":"Albino","song":"Dishi"}
+{"ts":"2026-01-02T07:52:02Z","artist":"Kaliopi","song":"Kad osvane"}
+{"ts":"2026-01-02T07:56:01Z","artist":"Riblja Corba","song":"Kad sam bio mlad"}
+{"ts":"2026-01-02T07:58:02Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
+{"ts":"2026-01-02T08:02:01Z","artist":"Tony Cetinski","song":"Treba Imat Dusu"}
+{"ts":"2026-01-02T08:06:01Z","artist":"Dana Karic x Srdjan Lazic x Igor Simic","song":"Kraj"}
+{"ts":"2026-01-02T08:10:02Z","artist":"Zeljko Vasic","song":"Zena Kao Ti"}
+{"ts":"2026-01-02T08:14:01Z","artist":"Senidah","song":"Level"}
+{"ts":"2026-01-02T08:16:02Z","artist":"Zeljko Joksimovic","song":"Devojka"}
+{"ts":"2026-01-02T08:26:01Z","artist":"Dado Glisic","song":"Sto bespuca"}
+{"ts":"2026-01-02T08:30:02Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-02T08:36:01Z","artist":"Danijela Karic i Ivan Mileusnic","song":"Zajedno"}
+{"ts":"2026-01-02T08:40:01Z","artist":"Bijelo Dugme","song":"Ako ima Boga"}
+{"ts":"2026-01-02T08:50:02Z","artist":"Jelena Rozga","song":"Od cega sam ja"}
+{"ts":"2026-01-02T08:58:02Z","artist":"Sasa Kovacevic","song":"Romeo"}
+{"ts":"2026-01-02T09:00:01Z","artist":"Parni Valjak","song":"Ugasi me"}
+{"ts":"2026-01-02T09:04:02Z","artist":"Kerber","song":"Bolje da sam druge ljubio"}
+{"ts":"2026-01-02T09:08:01Z","artist":"Azra","song":"A sta da radim"}
+{"ts":"2026-01-02T09:10:02Z","artist":"Van Gogh","song":"Neko te ima"}
+{"ts":"2026-01-02T09:14:01Z","artist":"Zabranjeno Pusenje","song":"Balada o Pisonji i Zugi"}
+{"ts":"2026-01-02T09:20:01Z","artist":"Bijelo Dugme","song":"Meni Se Ne Spava"}
+{"ts":"2026-01-02T09:26:01Z","artist":"Crvena Jabuka","song":"Twist And Shout (Svidja mi se ova stvar)"}
+{"ts":"2026-01-02T09:32:01Z","artist":"Riblja Corba","song":"Pogledaj dom svoj andjele"}
+{"ts":"2026-01-02T09:36:01Z","artist":"Piloti","song":"Neverna si"}
+{"ts":"2026-01-02T09:38:01Z","artist":"Osvajaci","song":"Pronadji me"}
+{"ts":"2026-01-02T09:46:01Z","artist":"Van Gogh","song":"Za godine tvoje"}
+{"ts":"2026-01-02T09:50:02Z","artist":"Prljavo Kazaliste","song":"Marina"}
+{"ts":"2026-01-02T09:54:01Z","artist":"Djavoli","song":"Pricaj mi o ljubavi"}
+{"ts":"2026-01-02T10:04:02Z","artist":"Zeljko Joksimovic","song":"Ponelo Me"}
+{"ts":"2026-01-02T10:08:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
+{"ts":"2026-01-02T10:12:01Z","artist":"John Legend","song":"Love Me Now"}
+{"ts":"2026-01-02T10:16:01Z","artist":"Miach","song":"SMS"}
+{"ts":"2026-01-02T10:20:01Z","artist":"Zana","song":"Dodirni mi kolena"}
+{"ts":"2026-01-02T10:26:01Z","artist":"Henny x Edita","song":"Magla"}
+{"ts":"2026-01-02T10:36:01Z","artist":"Tijana Bogicevic","song":"Zovi me kad ti se place"}
+{"ts":"2026-01-02T10:46:01Z","artist":"Sergej Cetkovic","song":"Kofer"}
+{"ts":"2026-01-02T10:54:01Z","artist":"Aleksandra Radovic","song":"Neodoljivo"}
+{"ts":"2026-01-02T10:56:01Z","artist":"Tony Cetinski","song":"Kao u snu"}
+{"ts":"2026-01-02T11:00:02Z","artist":"Merlin","song":"Smijehom strah pokrijem"}
+{"ts":"2026-01-02T11:06:01Z","artist":"Sandi Cenov","song":"Rano je za kraj"}
+{"ts":"2026-01-02T11:10:01Z","artist":"Goran Karan","song":"Ja sam samo vagabundo"}
+{"ts":"2026-01-02T11:14:02Z","artist":"Hari Mata Hari","song":"Kad Dodje Oktobar"}
 {"ts":"2026-01-02T11:36:02Z","artist":"Zdravko Colic","song":"Okano"}
-{"ts":"2026-01-02T11:40:03Z","artist":"Merlin","song":"Kad si rekla da me volis"}
-{"ts":"2026-01-02T11:52:06Z","artist":"Crvena Jabuka","song":"Moje najmilije"}
-{"ts":"2026-01-02T12:02:08Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
-{"ts":"2026-01-02T12:06:09Z","artist":"Zeljko Joksimovic","song":"Menjaj pesmu"}
-{"ts":"2026-01-02T12:10:10Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-02T12:12:11Z","artist":"Jason Derulo","song":"Take You Dancing"}
-{"ts":"2026-01-02T12:22:13Z","artist":"Parni Valjak","song":"Uhvati Ritam"}
-{"ts":"2026-01-02T12:32:16Z","artist":"Tap 011","song":"Okreni broj 95"}
-{"ts":"2026-01-02T12:36:16Z","artist":"Knez","song":"Falis mi ti"}
-{"ts":"2026-01-02T12:44:18Z","artist":"Sergej Cetkovic","song":"Dva minuta"}
-{"ts":"2026-01-02T12:48:19Z","artist":"Kejt","song":"Olovo"}
-{"ts":"2026-01-02T12:58:22Z","artist":"Bojan Marovic","song":"Kao da si tu"}
-{"ts":"2026-01-02T13:02:23Z","artist":"Tasa Krunic","song":"Slomljena"}
-{"ts":"2026-01-02T13:08:24Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
-{"ts":"2026-01-02T13:10:24Z","artist":"Charlie Puth","song":"Attention"}
-{"ts":"2026-01-02T13:14:25Z","artist":"Zeljko Vasic","song":"Miris koze"}
-{"ts":"2026-01-02T13:28:28Z","artist":"Dana Karic","song":"Danas"}
-{"ts":"2026-01-02T13:34:30Z","artist":"Nina Badric","song":"Alive"}
-{"ts":"2026-01-02T13:42:32Z","artist":"Dino Merlin","song":"Skoljka"}
-{"ts":"2026-01-02T13:46:33Z","artist":"Aleksandra Radovic","song":"Ne hvala"}
-{"ts":"2026-01-02T13:50:34Z","artist":"Neno Belan","song":"Rijeka snova"}
-{"ts":"2026-01-02T13:58:35Z","artist":"Emina Jahovic feat. Zeljko Joksimovic","song":"Dva aviona"}
-{"ts":"2026-01-02T14:00:36Z","artist":"Nevena Bozovic","song":"Jasno mi je"}
-{"ts":"2026-01-02T14:08:37Z","artist":"Senidah","song":"Ti i Ja"}
-{"ts":"2026-01-02T14:14:38Z","artist":"Dzordzi","song":"Luna park"}
-{"ts":"2026-01-02T14:18:39Z","artist":"Angellina ft. Boy Tedson","song":"Biram Te"}
-{"ts":"2026-01-02T14:22:40Z","artist":"Miach","song":"Led (feat. Grše)"}
-{"ts":"2026-01-02T14:26:41Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
-{"ts":"2026-01-02T14:37:40Z","artist":"Franka x Sara Jo","song":"On"}
-{"ts":"2026-01-02T14:43:41Z","artist":"Rasta","song":"Adio amore"}
-{"ts":"2026-01-02T14:47:42Z","artist":"Sergej Pajic x Edita","song":"Rio Rio"}
-{"ts":"2026-01-02T14:49:43Z","artist":"NipplePeople","song":"Frka"}
-{"ts":"2026-01-02T14:57:44Z","artist":"Vlado Georgiev","song":"Iskreno"}
-{"ts":"2026-01-02T15:01:46Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
-{"ts":"2026-01-02T15:07:47Z","artist":"Lena Kovacevic","song":"Leto Je"}
-{"ts":"2026-01-02T15:09:48Z","artist":"Oliver Dragojevic","song":"Dzeni"}
-{"ts":"2026-01-02T15:13:48Z","artist":"Albino","song":"Dishi"}
-{"ts":"2026-01-02T15:21:51Z","artist":"Boris Novkovic","song":"Elois"}
-{"ts":"2026-01-02T15:25:51Z","artist":"Dino Merlin","song":"Rudar"}
-{"ts":"2026-01-02T15:33:53Z","artist":"Mia Dimsic","song":"Netko drugi"}
-{"ts":"2026-01-02T15:39:55Z","artist":"Ana Stanic","song":"Tek je 12 sati"}
-{"ts":"2026-01-02T15:45:55Z","artist":"Aleksandra Radovic","song":"Ziveo kraj"}
-{"ts":"2026-01-02T15:57:59Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
-{"ts":"2026-01-02T16:00:00Z","artist":"The Weeknd","song":"In Your Eyes"}
-{"ts":"2026-01-02T16:12:03Z","artist":"Angellina","song":"Sijam"}
-{"ts":"2026-01-02T16:20:04Z","artist":"Parni Valjak","song":"Zastave"}
-{"ts":"2026-01-02T16:28:05Z","artist":"Bajaga","song":"Mala uska haljina"}
-{"ts":"2026-01-02T16:38:08Z","artist":"Zoi","song":"Jasno mi je"}
-{"ts":"2026-01-02T16:52:12Z","artist":"Kaliopi","song":"Kesteni"}
-{"ts":"2026-01-02T16:56:13Z","artist":"Nevena Bozovic","song":"Ljubav u bojama"}
-{"ts":"2026-01-02T16:58:13Z","artist":"Dzenan Loncarevic","song":"Cvete beli"}
-{"ts":"2026-01-02T17:02:14Z","artist":"Edita","song":"Stikla"}
-{"ts":"2026-01-02T17:04:15Z","artist":"Hari Mata Hari","song":"Upomoc"}
-{"ts":"2026-01-02T17:08:15Z","artist":"Magla Bend","song":"Ne znam gde si"}
-{"ts":"2026-01-02T17:12:16Z","artist":"Zeljko Samardzic","song":"Nisi ti za male stvari"}
-{"ts":"2026-01-02T17:14:16Z","artist":"Jelena Rozga","song":"Lavica"}
-{"ts":"2026-01-02T17:22:17Z","artist":"Sasa Kovacevic","song":"Temperatura"}
-{"ts":"2026-01-02T17:24:18Z","artist":"Lexington","song":"Donesi"}
-{"ts":"2026-01-02T17:28:19Z","artist":"Funky G","song":"Plakati zauvek"}
-{"ts":"2026-01-02T17:32:20Z","artist":"Senidah","song":"Behute"}
-{"ts":"2026-01-02T17:38:21Z","artist":"OK Band","song":"Moja rano"}
-{"ts":"2026-01-02T17:42:22Z","artist":"Zdravko Colic","song":"Sto puta"}
-{"ts":"2026-01-02T17:48:23Z","artist":"Sandi Cenov","song":"Nebo"}
-{"ts":"2026-01-02T18:00:26Z","artist":"Zeljko Vasic","song":"Svrati na pice"}
-{"ts":"2026-01-02T18:04:27Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-02T18:22:31Z","artist":"Parni Valjak","song":"Lutka za bal (unplugged)"}
-{"ts":"2026-01-02T18:26:33Z","artist":"Teya Dora","song":"Pusti me"}
-{"ts":"2026-01-02T18:28:33Z","artist":"Zoi","song":"Problem"}
-{"ts":"2026-01-02T18:32:34Z","artist":"Petar Graso","song":"Utorak"}
-{"ts":"2026-01-02T18:36:35Z","artist":"Sasa Kovacevic","song":"Romeo"}
-{"ts":"2026-01-02T18:40:36Z","artist":"Dado Glisic","song":"Kopija"}
-{"ts":"2026-01-02T18:46:38Z","artist":"Prljavo Kazaliste","song":"Ako trazis nekoga"}
-{"ts":"2026-01-02T18:54:40Z","artist":"Edita","song":"Kap po kap"}
-{"ts":"2026-01-02T19:08:43Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-02T19:10:44Z","artist":"The Weeknd","song":"Take My Breath"}
-{"ts":"2026-01-02T19:16:46Z","artist":"Dino Dvornik","song":"Bas sam ljut"}
-{"ts":"2026-01-02T19:24:49Z","artist":"Tropico Band","song":"Veto"}
-{"ts":"2026-01-02T19:28:49Z","artist":"Zeljko Joksimovic","song":"Mila moja"}
-{"ts":"2026-01-02T19:30:50Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
-{"ts":"2026-01-02T19:42:54Z","artist":"Nina Badric","song":"Ako kazes da me ne volis"}
-{"ts":"2026-01-02T19:56:58Z","artist":"Boris Rezak","song":"Ti si moja"}
-{"ts":"2026-01-02T20:00:59Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
-{"ts":"2026-01-02T20:04:59Z","artist":"Senidah","song":"Replay"}
-{"ts":"2026-01-02T20:07:00Z","artist":"Sam Smith","song":"Diamonds"}
-{"ts":"2026-01-02T20:11:01Z","artist":"Bijelo Dugme","song":"Sta ima novo"}
-{"ts":"2026-01-02T20:17:02Z","artist":"Sara Jo","song":"Bez Sna"}
-{"ts":"2026-01-02T20:19:03Z","artist":"Coby","song":"Leto je"}
-{"ts":"2026-01-02T20:23:04Z","artist":"Colonia","song":"Vatra i led"}
-{"ts":"2026-01-02T20:29:05Z","artist":"Vlado Georgiev","song":"Hej Ti"}
-{"ts":"2026-01-02T20:35:06Z","artist":"Jelena Rozga","song":"Kad nema ljubavi"}
-{"ts":"2026-01-02T20:37:06Z","artist":"Djordje Balasevic","song":"Jaroslava"}
-{"ts":"2026-01-02T20:48:04Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
-{"ts":"2026-01-02T20:52:06Z","artist":"Tijana Bogicevic","song":"Nekako nikako"}
-{"ts":"2026-01-02T20:58:08Z","artist":"Ed Sheeran","song":"Bad Habits"}
-{"ts":"2026-01-02T21:02:10Z","artist":"Edita","song":"Slobodno me rani"}
-{"ts":"2026-01-02T21:04:11Z","artist":"Bebi Dol","song":"Rudi"}
-{"ts":"2026-01-02T21:08:12Z","artist":"Magla Bend","song":"Ne leci se zena drugim zenama"}
-{"ts":"2026-01-02T21:12:14Z","artist":"Angellina","song":"Ti si mi u mislima"}
-{"ts":"2026-01-02T21:14:15Z","artist":"Mars Venus","song":"Budi sa mnom"}
-{"ts":"2026-01-02T21:18:16Z","artist":"Knez","song":"Falis mi ti"}
-{"ts":"2026-01-02T21:26:20Z","artist":"Nevena","song":"Produzi dalje"}
-{"ts":"2026-01-02T21:30:22Z","artist":"Massimo","song":"Zar vise nema nas ft. Neno Belan"}
-{"ts":"2026-01-02T21:34:23Z","artist":"Ana Stanic","song":"Krila"}
-{"ts":"2026-01-02T21:38:24Z","artist":"Zeljko Vasic","song":"Ne verujem ja"}
-{"ts":"2026-01-02T21:44:27Z","artist":"Neverne Bebe","song":"Da Ima Nas"}
-{"ts":"2026-01-02T21:52:31Z","artist":"The Weeknd","song":"Out of Time"}
-{"ts":"2026-01-02T21:56:32Z","artist":"Zoi","song":"Kompromis"}
-{"ts":"2026-01-02T22:02:34Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
-{"ts":"2026-01-02T22:06:35Z","artist":"Matija Cvek","song":"Ne moram ni ja"}
-{"ts":"2026-01-02T22:08:36Z","artist":"Boris Rezak","song":"Pokora"}
-{"ts":"2026-01-02T22:14:39Z","artist":"Jelena Tomasevic","song":"Kosava"}
-{"ts":"2026-01-02T22:22:43Z","artist":"Tose Proeski","song":"Cija Si"}
-{"ts":"2026-01-02T22:28:44Z","artist":"Nika Turkovic","song":"Ima smisla"}
-{"ts":"2026-01-02T22:30:46Z","artist":"Van Gogh","song":"Za suze nema vremena"}
-{"ts":"2026-01-02T22:44:51Z","artist":"RagnBone Man","song":"As You Are"}
-{"ts":"2026-01-02T22:48:52Z","artist":"Miach","song":"SMS"}
-{"ts":"2026-01-02T22:50:54Z","artist":"Dino Dvornik","song":"Tebi Pripadam"}
-{"ts":"2026-01-02T22:54:55Z","artist":"Hurricane","song":"Favorito"}
-{"ts":"2026-01-02T23:00:57Z","artist":"Zeljko Vasic","song":"Nisam Od Juce"}
-{"ts":"2026-01-02T23:04:58Z","artist":"Dino Merlin","song":"Rudar"}
-{"ts":"2026-01-02T23:09:00Z","artist":"Ilma Karahmet","song":"Neko nije"}
-{"ts":"2026-01-02T23:13:02Z","artist":"Jelena Rozga","song":"Od cega sam ja"}
-{"ts":"2026-01-02T23:17:03Z","artist":"Vlado Georgiev","song":"Zbogom ljubavi"}
-{"ts":"2026-01-02T23:21:05Z","artist":"Aleksandra Radovic","song":"Neodoljivo"}
-{"ts":"2026-01-02T23:25:06Z","artist":"Bojan Marovic","song":"Bolja si od drugih"}
-{"ts":"2026-01-02T23:27:07Z","artist":"Devito x Bajaga","song":"Astronaut"}
-{"ts":"2026-01-02T23:31:09Z","artist":"Marija Serifovic","song":"Nisam Andjeo"}
-{"ts":"2026-01-02T23:35:10Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-02T23:41:12Z","artist":"Boris Rezak","song":"Ljubi Me"}
-{"ts":"2026-01-02T23:45:13Z","artist":"Oliver Mandic","song":"Ljuljaj me nezno"}
-{"ts":"2026-01-02T23:49:14Z","artist":"Edita","song":"Zivotinje"}
-{"ts":"2026-01-02T23:53:17Z","artist":"Ana Bebic","song":"Noc me kida"}
-{"ts":"2026-01-02T23:55:17Z","artist":"Sandi","song":"Vrjeme novih ljubavi"}
-{"ts":"2026-01-02T23:59:18Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
-{"ts":"2026-01-03T00:01:19Z","artist":"Tony Cetinski","song":"Treba Imat Dusu"}
-{"ts":"2026-01-03T00:07:21Z","artist":"Ana Stanic","song":"Ne zna ona 2024."}
-{"ts":"2026-01-03T00:09:22Z","artist":"Oliver Dragojevic","song":"Prati me kroz snove"}
-{"ts":"2026-01-03T00:17:26Z","artist":"Nevena Bozovic","song":"Bal"}
-{"ts":"2026-01-03T00:21:28Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
-{"ts":"2026-01-03T00:23:28Z","artist":"Mvp","song":"Celu Noc I Celi Dan"}
-{"ts":"2026-01-03T00:27:29Z","artist":"Angellina","song":"Na tvojim rukama"}
-{"ts":"2026-01-03T00:29:30Z","artist":"Harry Styles","song":"Adore You"}
-{"ts":"2026-01-03T00:33:32Z","artist":"Amna","song":"Sama"}
-{"ts":"2026-01-03T00:35:32Z","artist":"Merlin","song":"Istine Dvije"}
-{"ts":"2026-01-03T00:39:34Z","artist":"Senidah","song":"Delija"}
-{"ts":"2026-01-03T00:43:36Z","artist":"Igor Simic","song":"Ne dam te"}
-{"ts":"2026-01-03T00:47:37Z","artist":"Nina Badric","song":"Za dobre i lose dane"}
-{"ts":"2026-01-03T00:53:40Z","artist":"Bojan Marovic","song":"Neka te ljubi"}
-{"ts":"2026-01-03T00:57:42Z","artist":"Nela i Marko","song":"U zagrljaju spaseni"}
-{"ts":"2026-01-03T01:01:44Z","artist":"Kiki Lesendric","song":"Noc kao iz sna"}
-{"ts":"2026-01-03T01:05:45Z","artist":"Franka","song":"Putuj sa poljupcima"}
-{"ts":"2026-01-03T01:07:45Z","artist":"Vlado Georgiev","song":"Nisam ljubomoran"}
-{"ts":"2026-01-03T01:11:47Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-03T01:19:49Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-03T01:21:51Z","artist":"OneRepublic","song":"I Aint Worried"}
-{"ts":"2026-01-03T01:25:52Z","artist":"Aleksandra Radovic","song":"Ne zaklinjem se na ljubav"}
-{"ts":"2026-01-03T01:29:53Z","artist":"Bajaga","song":"Godine prolaze"}
-{"ts":"2026-01-03T01:31:55Z","artist":"Emina feat. Gazda Paja","song":"Exploziv (Covered by Angellina)"}
-{"ts":"2026-01-03T01:35:56Z","artist":"Magla Bend","song":"Izmislicu ljubav"}
-{"ts":"2026-01-03T01:37:56Z","artist":"ET","song":"Jedina"}
-{"ts":"2026-01-03T01:41:58Z","artist":"Sasa Kovacevic","song":"Romeo"}
-{"ts":"2026-01-03T01:45:59Z","artist":"Marija Serifovic","song":"More pelina"}
-{"ts":"2026-01-03T01:54:02Z","artist":"Knez","song":"Samo ti"}
-{"ts":"2026-01-03T01:56:02Z","artist":"ZSA ZSA ft. Hiljson Mandela","song":"Ova ljubav"}
-{"ts":"2026-01-03T02:00:03Z","artist":"Jelena Tomasevic","song":"Bitanga i princeza"}
-{"ts":"2026-01-03T02:04:07Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
-{"ts":"2026-01-03T02:06:08Z","artist":"Dino Merlin","song":"Rane"}
-{"ts":"2026-01-03T02:10:09Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
-{"ts":"2026-01-03T02:26:16Z","artist":"Sara Jo","song":"Neko te ima"}
-{"ts":"2026-01-03T02:30:19Z","artist":"Oliver Dragojevic","song":"Pred tvojim vratima"}
-{"ts":"2026-01-03T02:34:20Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
-{"ts":"2026-01-03T02:42:20Z","artist":"David Temelkov","song":"Sve je prolazno osim tvoje ljubavi"}
-{"ts":"2026-01-03T02:44:21Z","artist":"Colonia","song":"No puedo mas sin ti"}
-{"ts":"2026-01-03T02:48:22Z","artist":"Nemanja Radosevic","song":"Trag u vremenu"}
-{"ts":"2026-01-03T02:52:24Z","artist":"Aleksandra Radovic","song":"Cuvam Te"}
-{"ts":"2026-01-03T02:58:26Z","artist":"Tijana Bogicevic i Damir Kedzo","song":"Hram"}
-{"ts":"2026-01-03T03:04:29Z","artist":"The Weeknd","song":"Blinding Lights"}
-{"ts":"2026-01-03T03:08:30Z","artist":"Edita","song":"Ljustura"}
-{"ts":"2026-01-03T03:12:32Z","artist":"Oktobar 1864","song":"Crni ples"}
-{"ts":"2026-01-03T03:18:34Z","artist":"Zeljko Vasic","song":"Sve jos mirise na nju"}
-{"ts":"2026-01-03T03:22:36Z","artist":"Crvena Jabuka","song":"Vjetar"}
-{"ts":"2026-01-03T03:26:37Z","artist":"Dzejla Ramovic","song":"Bol"}
-{"ts":"2026-01-03T03:32:40Z","artist":"Ana Bebic","song":"Bordo"}
-{"ts":"2026-01-03T03:36:41Z","artist":"Merlin","song":"Sredinom"}
-{"ts":"2026-01-03T03:40:43Z","artist":"Zeljko Joksimovic","song":"1000 zena"}
-{"ts":"2026-01-03T03:42:44Z","artist":"Jelena Tomasevic","song":"Dobro jutro ljubavi"}
-{"ts":"2026-01-03T03:52:48Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
-{"ts":"2026-01-03T04:00:52Z","artist":"Ilma Karahmet","song":"Kraj je"}
-{"ts":"2026-01-03T04:02:52Z","artist":"Prljavo Kazaliste","song":"Kise Jesenje"}
-{"ts":"2026-01-03T04:06:53Z","artist":"Henny","song":"Seti Me Se"}
-{"ts":"2026-01-03T04:12:56Z","artist":"Oliver Dragojevic","song":"Tesko te zaboravljam"}
-{"ts":"2026-01-03T04:16:57Z","artist":"Knez","song":"Falis mi ti"}
-{"ts":"2026-01-03T04:20:59Z","artist":"Zdravko Colic","song":"Zar se nismo shvatili"}
-{"ts":"2026-01-03T04:25:00Z","artist":"Dana Karic","song":"Ja ti zelim srecu"}
-{"ts":"2026-01-03T04:27:01Z","artist":"Vlado Georgiev","song":"Andjele (summer mix)"}
-{"ts":"2026-01-03T04:31:03Z","artist":"Nemanja Radosevic","song":"Prstima"}
-{"ts":"2026-01-03T04:35:04Z","artist":"Aleksandra Radovic","song":"Cuvaj moje srce"}
-{"ts":"2026-01-03T04:39:05Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-03T04:45:09Z","artist":"Angellina","song":"Na tvojim rukama"}
-{"ts":"2026-01-03T04:51:12Z","artist":"Nevena Bozovic","song":"Ljubav u bojama"}
-{"ts":"2026-01-03T04:53:13Z","artist":"Parni Valjak","song":"Lutka za bal (unplugged)"}
-{"ts":"2026-01-03T05:01:16Z","artist":"Zoi","song":"Problem"}
-{"ts":"2026-01-03T05:07:17Z","artist":"Sasa Kovacevic","song":"Romeo"}
-{"ts":"2026-01-03T05:11:20Z","artist":"Dado Glisic","song":"Kopija"}
-{"ts":"2026-01-03T05:15:21Z","artist":"Marija Serifovic","song":"Dolazi ljubav"}
-{"ts":"2026-01-03T05:17:21Z","artist":"Prljavo Kazaliste","song":"Ako trazis nekoga"}
-{"ts":"2026-01-03T05:29:27Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
-{"ts":"2026-01-03T05:33:29Z","artist":"Tony Cetinski","song":"Kad zena zavoli"}
-{"ts":"2026-01-03T05:37:30Z","artist":"Emina Jahovic","song":"Probala Sam"}
-{"ts":"2026-01-03T05:45:34Z","artist":"Djana","song":"Nostalgija"}
-{"ts":"2026-01-03T05:47:34Z","artist":"Dino Dvornik","song":"Bas sam ljut"}
-{"ts":"2026-01-03T05:53:37Z","artist":"Tropico Band","song":"Veto"}
-{"ts":"2026-01-03T05:57:39Z","artist":"Zeljko Joksimovic","song":"Mila moja"}
-{"ts":"2026-01-03T06:05:43Z","artist":"Zeljko Vasic","song":"Trazi pesmu"}
-{"ts":"2026-01-03T06:09:44Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
-{"ts":"2026-01-03T06:13:47Z","artist":"Miley Cyrus","song":"Midnight Sky"}
-{"ts":"2026-01-03T06:15:47Z","artist":"Sasa Kovacevic","song":"Nocna ikona"}
-{"ts":"2026-01-03T06:23:51Z","artist":"Devita x Teodora","song":"Vudu (Covered by Tara)"}
-{"ts":"2026-01-03T06:27:52Z","artist":"Bojan Marovic","song":"Jos si samo moja"}
-{"ts":"2026-01-03T06:31:54Z","artist":"Merlin","song":"Ja potpuno trijezan umirem"}
-{"ts":"2026-01-03T06:35:55Z","artist":"Senidah","song":"Lanci Ljubavi"}
-{"ts":"2026-01-03T06:39:56Z","artist":"Tose Proeski","song":"Da l si sretnija"}
-{"ts":"2026-01-03T06:43:58Z","artist":"Zeljko Joksimovic","song":"Mozda je to ljubav"}
-{"ts":"2026-01-03T06:50:00Z","artist":"Colonia","song":"Oduzimas mi dah (Acoustic radio mix)"}
-{"ts":"2026-01-03T06:54:02Z","artist":"Van Gogh","song":"Lud i sam"}
-{"ts":"2026-01-03T07:02:06Z","artist":"Devito x Bajaga","song":"Astronaut"}
-{"ts":"2026-01-03T07:06:07Z","artist":"Emina Jahovic","song":"Da mogu"}
-{"ts":"2026-01-03T07:12:10Z","artist":"Charlie Puth","song":"The Way I Am"}
-{"ts":"2026-01-03T07:16:11Z","artist":"Tony Cetinski","song":"Ima nesto"}
-{"ts":"2026-01-03T07:24:14Z","artist":"Nina Todorovic","song":"Fali Tren"}
-{"ts":"2026-01-03T07:28:15Z","artist":"Ana Bebic","song":"Ti nemas prava na mene"}
-{"ts":"2026-01-03T07:32:17Z","artist":"Crvena Jabuka","song":"Tvoga srca vrata"}
-{"ts":"2026-01-03T07:42:21Z","artist":"Jelena Tomasevic","song":"Radio Svira Za Nas"}
-{"ts":"2026-01-03T07:46:22Z","artist":"Sergej Cetkovic","song":"Zasto pravis slona od mene"}
-{"ts":"2026-01-03T07:50:23Z","artist":"Gibonni","song":"Oprosti"}
-{"ts":"2026-01-03T07:54:26Z","artist":"Edita","song":"Sama"}
-{"ts":"2026-01-03T07:58:27Z","artist":"Zeljko Vasic","song":"Atina"}
-{"ts":"2026-01-03T08:04:30Z","artist":"Senidah","song":"Ti i Ja"}
-{"ts":"2026-01-03T08:08:31Z","artist":"irieFM","song":"Klizis"}
-{"ts":"2026-01-03T08:18:36Z","artist":"Zoi","song":"Ne zoves me"}
-{"ts":"2026-01-03T08:28:41Z","artist":"Magla Bend","song":"Ne leci se zena drugim zenama"}
-{"ts":"2026-01-03T08:38:38Z","artist":"Dino Merlin","song":"Rudar"}
-{"ts":"2026-01-03T08:44:40Z","artist":"Colonia","song":"Lazu oci moje"}
-{"ts":"2026-01-03T08:48:41Z","artist":"Euterpa","song":"Ostani"}
-{"ts":"2026-01-03T08:52:44Z","artist":"Moby Dick","song":"Ljubomoran"}
-{"ts":"2026-01-03T08:56:45Z","artist":"Marija Serifovic","song":"Idi dok te volim"}
-{"ts":"2026-01-03T08:58:46Z","artist":"Natasa Bekvalac","song":"Soba 23"}
-{"ts":"2026-01-03T09:04:49Z","artist":"Riblja Corba","song":"Kad sam bio mlad"}
-{"ts":"2026-01-03T09:06:50Z","artist":"Film","song":"Zamisli zivot u ritmu muzike za ples"}
-{"ts":"2026-01-03T09:10:52Z","artist":"Djavoli","song":"Volim je"}
-{"ts":"2026-01-03T09:18:54Z","artist":"Dejan Cukic","song":"Ja bih da pevam"}
-{"ts":"2026-01-03T09:24:57Z","artist":"Generacija 5","song":"Ti i ja"}
-{"ts":"2026-01-03T09:30:59Z","artist":"Prljavo Kazaliste","song":"Sve je lako kad si mlad"}
-{"ts":"2026-01-03T09:33:00Z","artist":"Zabranjeno Pusenje","song":"Djevojcice kojima mirise koza"}
-{"ts":"2026-01-03T09:43:04Z","artist":"Regata","song":"Andrea"}
-{"ts":"2026-01-03T09:47:05Z","artist":"Dino Dvornik","song":"Nadahnuce"}
-{"ts":"2026-01-03T09:53:08Z","artist":"Alisa","song":"Sanja"}
-{"ts":"2026-01-03T09:57:10Z","artist":"Bijelo Dugme","song":"A i ti me iznevjeri"}
-{"ts":"2026-01-03T10:05:14Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-03T10:07:15Z","artist":"Aleksandra Radovic","song":"Ne volim te"}
-{"ts":"2026-01-03T10:15:19Z","artist":"Teddy Swims","song":"The door"}
-{"ts":"2026-01-03T10:29:25Z","artist":"Zoi","song":"Eto"}
-{"ts":"2026-01-03T10:31:26Z","artist":"Sergej Cetkovic","song":"Ako te zaboravim"}
-{"ts":"2026-01-03T10:35:27Z","artist":"Vesna Pisarovic","song":"Da znas"}
-{"ts":"2026-01-03T10:39:28Z","artist":"Sasa Kovacevic","song":"Romeo"}
-{"ts":"2026-01-03T10:53:35Z","artist":"Tony Cetinski","song":"Nebo iznad nas"}
-{"ts":"2026-01-03T10:59:38Z","artist":"Bajaga","song":"Bademi i so (ft. Bebi Dol)"}
-{"ts":"2026-01-03T11:03:39Z","artist":"Tuti Fruti Band","song":"Ti Me Izludjujes"}
-{"ts":"2026-01-03T11:11:43Z","artist":"Magazin","song":"Jel zbog nje"}
-{"ts":"2026-01-03T11:15:45Z","artist":"Danijel Popovic","song":"Dzuli"}
-{"ts":"2026-01-03T11:17:46Z","artist":"Novi Fosili","song":"Ja sam za ples"}
-{"ts":"2026-01-03T11:27:51Z","artist":"Doris Dragovic","song":"Tek iz navike"}
-{"ts":"2026-01-03T11:31:52Z","artist":"Zana","song":"Majstor za poljupce"}
-{"ts":"2026-01-03T11:39:55Z","artist":"Magazin","song":"Ginem"}
-{"ts":"2026-01-03T11:47:59Z","artist":"Leo","song":"Ljubi ljubi Ljubice"}
-{"ts":"2026-01-03T11:54:01Z","artist":"Srebrna Krila","song":"Ana"}
-{"ts":"2026-01-03T12:04:06Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
-{"ts":"2026-01-03T12:12:10Z","artist":"Hurts","song":"Wonderful life"}
-{"ts":"2026-01-03T12:22:15Z","artist":"Piloti","song":"Tajna Je U Tebi Skrivena"}
-{"ts":"2026-01-03T12:26:17Z","artist":"Tara","song":"Modra zora"}
-{"ts":"2026-01-03T12:28:17Z","artist":"Sergej Cetkovic","song":"Kofer"}
-{"ts":"2026-01-03T12:32:18Z","artist":"Vanna","song":"Ako je vrijedilo ista"}
-{"ts":"2026-01-03T12:38:21Z","artist":"Dzejla Ramovic","song":"Bol"}
-{"ts":"2026-01-03T12:46:24Z","artist":"Edita","song":"Kokuzna vremena"}
-{"ts":"2026-01-03T12:48:25Z","artist":"Oliver Dragojevic","song":"Jeska od ljubavi"}
-{"ts":"2026-01-03T12:52:26Z","artist":"Nevena x Boris Rezak","song":"Laz"}
-{"ts":"2026-01-03T12:56:28Z","artist":"Tose Proeski","song":"Pratim te"}
-{"ts":"2026-01-03T13:08:33Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-03T13:12:34Z","artist":"Ed Sheeran","song":"Shape of You"}
-{"ts":"2026-01-03T13:26:41Z","artist":"Albino","song":"Dishi"}
-{"ts":"2026-01-03T13:28:42Z","artist":"Jelena Tomasevic","song":"Zivot u koferima"}
-{"ts":"2026-01-03T13:36:44Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
-{"ts":"2026-01-03T13:42:47Z","artist":"Dino Merlin","song":"Sve do medalje"}
-{"ts":"2026-01-03T13:46:48Z","artist":"Igor Simic","song":"Poveruj u ljubav"}
-{"ts":"2026-01-03T13:50:51Z","artist":"Petar Graso feat. Doris Dragovic","song":"Sto Je Od Mene Ostalo"}
-{"ts":"2026-01-03T14:02:56Z","artist":"Senidah","song":"Dopamin REMIX"}
-{"ts":"2026-01-03T14:04:57Z","artist":"Angellina","song":"Dah po dah"}
-{"ts":"2026-01-03T14:21:04Z","artist":"Sara Jo","song":"Divlja"}
-{"ts":"2026-01-03T14:23:05Z","artist":"Devito x Bajaga","song":"Astronaut"}
-{"ts":"2026-01-03T14:27:06Z","artist":"Djana","song":"Pustinja"}
-{"ts":"2026-01-03T14:29:06Z","artist":"NipplePeople","song":"Sutra"}
-{"ts":"2026-01-03T14:38:59Z","artist":"Dana Karic","song":"Danas"}
-{"ts":"2026-01-03T14:43:00Z","artist":"Sergej Pajic x Edita","song":"Rio Rio"}
-{"ts":"2026-01-03T14:47:01Z","artist":"Sasa Kovacevic","song":"Romeo"}
-{"ts":"2026-01-03T14:53:04Z","artist":"Nevena Bozovic","song":"Jasno mi je"}
-{"ts":"2026-01-03T15:03:07Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
-{"ts":"2026-01-03T15:11:10Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
-{"ts":"2026-01-03T15:17:12Z","artist":"Franka","song":"Prezivjet cu"}
-{"ts":"2026-01-03T15:23:15Z","artist":"Merlin","song":"Nesto lepo treba da se desi"}
-{"ts":"2026-01-03T15:29:17Z","artist":"Kejt","song":"Olovo"}
-{"ts":"2026-01-03T15:33:19Z","artist":"Zana","song":"Mala"}
-{"ts":"2026-01-03T15:35:19Z","artist":"Senidah","song":"Lanci Ljubavi"}
-{"ts":"2026-01-03T15:41:22Z","artist":"Tony Cetinski","song":"Sto Si Ti Meni"}
-{"ts":"2026-01-03T15:45:23Z","artist":"Zeljko Vasic","song":"Ako mi se dogodi"}
-{"ts":"2026-01-03T15:49:24Z","artist":"Vanna","song":"Kao da me nema"}
-{"ts":"2026-01-03T15:55:27Z","artist":"Oliver Dragojevic","song":"U mom zagrljaju"}
-{"ts":"2026-01-03T16:05:32Z","artist":"Dado Glisic","song":"Sto bespuca"}
-{"ts":"2026-01-03T16:21:39Z","artist":"Dino Dvornik","song":"Zasto Pravis Slona Od Mene"}
-{"ts":"2026-01-03T16:25:41Z","artist":"Hana","song":"Mi smo u problemu"}
-{"ts":"2026-01-03T16:27:41Z","artist":"S.A.R.S.","song":"Veruj mi"}
-{"ts":"2026-01-03T16:31:42Z","artist":"Emilia Kokic","song":"Sto mi znacis ti (Acoustic)"}
-{"ts":"2026-01-03T16:35:45Z","artist":"Nina Badric","song":"Alive"}
-{"ts":"2026-01-03T16:47:49Z","artist":"Colonia","song":"Sve oko mene je grijeh"}
-{"ts":"2026-01-03T16:51:51Z","artist":"Zoi","song":"Dvadesete"}
-{"ts":"2026-01-03T17:01:55Z","artist":"Dzenan Loncarevic","song":"Laufer"}
-{"ts":"2026-01-03T17:05:57Z","artist":"Hari Mata Hari","song":"Zjenico oka moga"}
-{"ts":"2026-01-03T17:11:59Z","artist":"Dee Monk","song":"Samo Zelim Da Znam"}
-{"ts":"2026-01-03T17:14:00Z","artist":"Goca Trzan","song":"Stoperka"}
-{"ts":"2026-01-03T17:18:01Z","artist":"Emina Jahovic","song":"Dal ona zna"}
-{"ts":"2026-01-03T17:26:05Z","artist":"Marija Serifovic","song":"Dobar vam dan"}
-{"ts":"2026-01-03T17:32:06Z","artist":"Doris Dragovic","song":"Robujem"}
-{"ts":"2026-01-03T17:36:08Z","artist":"Magazin","song":"Ako poludim"}
-{"ts":"2026-01-03T17:50:13Z","artist":"Zeljko Joksimovic","song":"Varnice"}
-{"ts":"2026-01-03T17:58:16Z","artist":"Djogani","song":"Leto je"}
-{"ts":"2026-01-03T18:02:17Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
-{"ts":"2026-01-03T18:08:21Z","artist":"Angellina","song":"Na tvojim rukama"}
-{"ts":"2026-01-03T18:16:24Z","artist":"Senidah","song":"Led i Vatra"}
-{"ts":"2026-01-03T18:18:24Z","artist":"Oliver Mandic","song":"Osloni se na mene"}
-{"ts":"2026-01-03T18:24:26Z","artist":"Amna","song":"Lagana"}
-{"ts":"2026-01-03T18:30:27Z","artist":"Tose Proeski","song":"Soba za tugu"}
-{"ts":"2026-01-03T18:34:29Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
-{"ts":"2026-01-03T18:38:30Z","artist":"Zeljko Vasic","song":"Ti i ja"}
-{"ts":"2026-01-03T18:44:33Z","artist":"Mia Dimsic","song":"Netko drugi"}
-{"ts":"2026-01-03T18:46:33Z","artist":"Knez","song":"Vjeruj"}
-{"ts":"2026-01-03T18:52:34Z","artist":"Nina Badric","song":"Takvi kao ti"}
-{"ts":"2026-01-03T18:56:36Z","artist":"Tasa Krunic","song":"Slomljena"}
-{"ts":"2026-01-03T19:00:37Z","artist":"Sasa Kovacevic","song":"Jedina si vredela"}
-{"ts":"2026-01-03T19:10:42Z","artist":"Nevena","song":"Ne cujes me"}
-{"ts":"2026-01-03T19:14:44Z","artist":"Bajaga","song":"Na vrhovima prstiju"}
-{"ts":"2026-01-03T19:16:44Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
-{"ts":"2026-01-03T19:30:49Z","artist":"Sergej Cetkovic","song":"Dva minuta"}
-{"ts":"2026-01-03T19:34:51Z","artist":"Dzejla Ramovic","song":"Ginem"}
-{"ts":"2026-01-03T19:38:53Z","artist":"Petar Graso","song":"Vera Od Suvog Zlata"}
-{"ts":"2026-01-03T19:42:54Z","artist":"Angellina","song":"Kraj"}
-{"ts":"2026-01-03T19:50:58Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
-{"ts":"2026-01-03T19:54:59Z","artist":"Vlado Georgiev","song":"Ako mi lose krene"}
-{"ts":"2026-01-03T19:59:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
-{"ts":"2026-01-03T20:03:01Z","artist":"Harry Styles","song":"Watermelon Sugar"}
-{"ts":"2026-01-03T20:05:03Z","artist":"Senidah","song":"Zovi Me"}
-{"ts":"2026-01-03T20:19:07Z","artist":"Zeljko Vasic","song":"Pratis Me U Stopu"}
-{"ts":"2026-01-03T20:23:07Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
-{"ts":"2026-01-03T20:27:09Z","artist":"Dado Glisic","song":"Kopija"}
-{"ts":"2026-01-03T20:31:10Z","artist":"Ana Bebic","song":"Telepatija"}
-{"ts":"2026-01-03T20:39:21Z","artist":"Toma x Djana","song":"Idi"}
-{"ts":"2026-01-03T20:41:22Z","artist":"Bojan Marovic","song":"Kao da si tu"}
-{"ts":"2026-01-03T20:45:23Z","artist":"Devito x Bajaga","song":"Astronaut"}
-{"ts":"2026-01-03T20:51:26Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
-{"ts":"2026-01-03T20:55:27Z","artist":"Adele","song":"Oh My God"}
-{"ts":"2026-01-03T20:57:28Z","artist":"Natalie Balmix","song":"Poljubi Me"}
-{"ts":"2026-01-03T21:01:30Z","artist":"Film","song":"Srce na cesti"}
-{"ts":"2026-01-03T21:05:31Z","artist":"Teya Dora","song":"Pusti me"}
-{"ts":"2026-01-03T21:07:32Z","artist":"Antonia Gigovska","song":"Mogli smo u dvoje"}
-{"ts":"2026-01-03T21:11:33Z","artist":"Parni Valjak","song":"Zastave"}
-{"ts":"2026-01-03T21:19:36Z","artist":"Sasa Kovacevic","song":"Pisi propalo"}
-{"ts":"2026-01-03T21:23:38Z","artist":"Nina Todorovic","song":"Idealan Tim"}
-{"ts":"2026-01-03T21:25:39Z","artist":"Sandi","song":"Nebo"}
-{"ts":"2026-01-03T21:29:40Z","artist":"Zoi","song":"Nirvana"}
-{"ts":"2026-01-03T21:33:42Z","artist":"Nevena Bozovic","song":"Jasno mi je"}
-{"ts":"2026-01-03T21:39:44Z","artist":"Zeljko Joksimovic","song":"Ludak Kao Ja"}
-{"ts":"2026-01-03T21:43:46Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
-{"ts":"2026-01-03T21:47:47Z","artist":"The Weeknd feat. Daft Punk","song":"Starboy"}
-{"ts":"2026-01-03T21:53:50Z","artist":"Xenia","song":"Troje"}
-{"ts":"2026-01-03T21:57:51Z","artist":"Albino","song":"Dishi"}
-{"ts":"2026-01-03T21:59:52Z","artist":"MIA","song":"Od Tebe Bolja"}
-{"ts":"2026-01-03T22:03:54Z","artist":"Oliver Dragojevic","song":"Trag u beskraju"}
-{"ts":"2026-01-03T22:07:55Z","artist":"Nina Badric","song":"Alive"}
-{"ts":"2026-01-03T22:15:59Z","artist":"Ana Stanic","song":"Bolesni"}
-{"ts":"2026-01-03T22:20:00Z","artist":"Negative","song":"Svet tuge"}
-{"ts":"2026-01-03T22:24:02Z","artist":"Magla Bend","song":"Uragani"}
-{"ts":"2026-01-03T22:26:03Z","artist":"Vlado Georgiev","song":"Mi nismo mi"}
-{"ts":"2026-01-03T22:34:06Z","artist":"Petar Graso","song":"Ako te pitaju"}
+{"ts":"2026-01-02T11:40:01Z","artist":"Merlin","song":"Kad si rekla da me volis"}
+{"ts":"2026-01-02T11:52:01Z","artist":"Crvena Jabuka","song":"Moje najmilije"}
+{"ts":"2026-01-02T12:02:01Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
+{"ts":"2026-01-02T12:06:01Z","artist":"Zeljko Joksimovic","song":"Menjaj pesmu"}
+{"ts":"2026-01-02T12:10:02Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-02T12:12:01Z","artist":"Jason Derulo","song":"Take You Dancing"}
+{"ts":"2026-01-02T12:22:02Z","artist":"Parni Valjak","song":"Uhvati Ritam"}
+{"ts":"2026-01-02T12:32:01Z","artist":"Tap 011","song":"Okreni broj 95"}
+{"ts":"2026-01-02T12:36:02Z","artist":"Knez","song":"Falis mi ti"}
+{"ts":"2026-01-02T12:44:01Z","artist":"Sergej Cetkovic","song":"Dva minuta"}
+{"ts":"2026-01-02T12:48:01Z","artist":"Kejt","song":"Olovo"}
+{"ts":"2026-01-02T12:58:01Z","artist":"Bojan Marovic","song":"Kao da si tu"}
+{"ts":"2026-01-02T13:02:01Z","artist":"Tasa Krunic","song":"Slomljena"}
+{"ts":"2026-01-02T13:08:01Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
+{"ts":"2026-01-02T13:10:02Z","artist":"Charlie Puth","song":"Attention"}
+{"ts":"2026-01-02T13:14:01Z","artist":"Zeljko Vasic","song":"Miris koze"}
+{"ts":"2026-01-02T13:28:01Z","artist":"Dana Karic","song":"Danas"}
+{"ts":"2026-01-02T13:36:01Z","artist":"Nina Badric","song":"Alive"}
+{"ts":"2026-01-02T13:42:01Z","artist":"Dino Merlin","song":"Skoljka"}
+{"ts":"2026-01-02T13:46:01Z","artist":"Aleksandra Radovic","song":"Ne hvala"}
+{"ts":"2026-01-02T13:50:01Z","artist":"Neno Belan","song":"Rijeka snova"}
+{"ts":"2026-01-02T13:58:01Z","artist":"Emina Jahovic feat. Zeljko Joksimovic","song":"Dva aviona"}
+{"ts":"2026-01-02T14:02:01Z","artist":"Nevena Bozovic","song":"Jasno mi je"}
+{"ts":"2026-01-02T14:08:01Z","artist":"Senidah","song":"Ti i Ja"}
+{"ts":"2026-01-02T14:14:01Z","artist":"Dzordzi","song":"Luna park"}
+{"ts":"2026-01-02T14:18:01Z","artist":"Angellina ft. Boy Tedson","song":"Biram Te"}
+{"ts":"2026-01-02T14:24:01Z","artist":"Miach","song":"Led (feat. Grše)"}
+{"ts":"2026-01-02T14:26:01Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
+{"ts":"2026-01-02T14:32:02Z","artist":"Edita","song":"Kokuzna vremena"}
+{"ts":"2026-01-02T14:36:01Z","artist":"Amna","song":"Lagana"}
+{"ts":"2026-01-02T14:38:02Z","artist":"Franka x Sara Jo","song":"On"}
+{"ts":"2026-01-02T14:44:01Z","artist":"Rasta","song":"Adio amore"}
+{"ts":"2026-01-02T14:46:01Z","artist":"Sergej Pajic x Edita","song":"Rio Rio"}
+{"ts":"2026-01-02T14:50:01Z","artist":"NipplePeople","song":"Frka"}
+{"ts":"2026-01-02T14:56:01Z","artist":"Vlado Georgiev","song":"Iskreno"}
+{"ts":"2026-01-02T15:02:01Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
+{"ts":"2026-01-02T15:08:01Z","artist":"Lena Kovacevic","song":"Leto Je"}
+{"ts":"2026-01-02T15:10:01Z","artist":"Oliver Dragojevic","song":"Dzeni"}
+{"ts":"2026-01-02T15:14:01Z","artist":"Albino","song":"Dishi"}
+{"ts":"2026-01-02T15:22:01Z","artist":"Boris Novkovic","song":"Elois"}
+{"ts":"2026-01-02T15:24:01Z","artist":"Dino Merlin","song":"Rudar"}
+{"ts":"2026-01-02T15:34:01Z","artist":"Mia Dimsic","song":"Netko drugi"}
+{"ts":"2026-01-02T15:40:01Z","artist":"Ana Stanic","song":"Tek je 12 sati"}
+{"ts":"2026-01-02T15:46:01Z","artist":"Aleksandra Radovic","song":"Ziveo kraj"}
+{"ts":"2026-01-02T15:58:02Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-02T16:00:01Z","artist":"The Weeknd","song":"In Your Eyes"}
+{"ts":"2026-01-02T16:12:02Z","artist":"Angellina","song":"Sijam"}
+{"ts":"2026-01-02T16:20:01Z","artist":"Parni Valjak","song":"Zastave"}
+{"ts":"2026-01-02T16:28:01Z","artist":"Bajaga","song":"Mala uska haljina"}
+{"ts":"2026-01-02T16:40:01Z","artist":"Zoi","song":"Jasno mi je"}
+{"ts":"2026-01-02T16:52:02Z","artist":"Kaliopi","song":"Kesteni"}
+{"ts":"2026-01-02T16:56:01Z","artist":"Nevena Bozovic","song":"Ljubav u bojama"}
+{"ts":"2026-01-02T16:58:01Z","artist":"Dzenan Loncarevic","song":"Cvete beli"}
+{"ts":"2026-01-02T17:02:01Z","artist":"Edita","song":"Stikla"}
+{"ts":"2026-01-02T17:04:01Z","artist":"Hari Mata Hari","song":"Upomoc"}
+{"ts":"2026-01-02T17:08:01Z","artist":"Magla Bend","song":"Ne znam gde si"}
+{"ts":"2026-01-02T17:12:02Z","artist":"Zeljko Samardzic","song":"Nisi ti za male stvari"}
+{"ts":"2026-01-02T17:14:01Z","artist":"Jelena Rozga","song":"Lavica"}
+{"ts":"2026-01-02T17:22:01Z","artist":"Sasa Kovacevic","song":"Temperatura"}
+{"ts":"2026-01-02T17:24:02Z","artist":"Lexington","song":"Donesi"}
+{"ts":"2026-01-02T17:30:02Z","artist":"Funky G","song":"Plakati zauvek"}
+{"ts":"2026-01-02T17:32:01Z","artist":"Senidah","song":"Behute"}
+{"ts":"2026-01-02T17:38:01Z","artist":"OK Band","song":"Moja rano"}
+{"ts":"2026-01-02T17:42:01Z","artist":"Zdravko Colic","song":"Sto puta"}
+{"ts":"2026-01-02T17:48:01Z","artist":"Sandi Cenov","song":"Nebo"}
+{"ts":"2026-01-02T18:00:01Z","artist":"Zeljko Vasic","song":"Svrati na pice"}
+{"ts":"2026-01-02T18:04:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-02T18:22:02Z","artist":"Parni Valjak","song":"Lutka za bal (unplugged)"}
+{"ts":"2026-01-02T18:26:01Z","artist":"Teya Dora","song":"Pusti me"}
+{"ts":"2026-01-02T18:30:01Z","artist":"Zoi","song":"Problem"}
+{"ts":"2026-01-02T18:32:01Z","artist":"Petar Graso","song":"Utorak"}
+{"ts":"2026-01-02T18:36:01Z","artist":"Sasa Kovacevic","song":"Romeo"}
+{"ts":"2026-01-02T18:40:01Z","artist":"Dado Glisic","song":"Kopija"}
+{"ts":"2026-01-02T18:46:01Z","artist":"Prljavo Kazaliste","song":"Ako trazis nekoga"}
+{"ts":"2026-01-02T18:54:01Z","artist":"Edita","song":"Kap po kap"}
+{"ts":"2026-01-02T19:08:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-02T19:12:01Z","artist":"The Weeknd","song":"Take My Breath"}
+{"ts":"2026-01-02T19:18:01Z","artist":"Dino Dvornik","song":"Bas sam ljut"}
+{"ts":"2026-01-02T19:26:01Z","artist":"Tropico Band","song":"Veto"}
+{"ts":"2026-01-02T19:28:01Z","artist":"Zeljko Joksimovic","song":"Mila moja"}
+{"ts":"2026-01-02T19:32:01Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
+{"ts":"2026-01-02T19:42:02Z","artist":"Nina Badric","song":"Ako kazes da me ne volis"}
+{"ts":"2026-01-02T19:56:02Z","artist":"Boris Rezak","song":"Ti si moja"}
+{"ts":"2026-01-02T20:02:02Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
+{"ts":"2026-01-02T20:04:01Z","artist":"Senidah","song":"Replay"}
+{"ts":"2026-01-02T20:08:02Z","artist":"Sam Smith","song":"Diamonds"}
+{"ts":"2026-01-02T20:10:01Z","artist":"Bijelo Dugme","song":"Sta ima novo"}
+{"ts":"2026-01-02T20:16:01Z","artist":"Sara Jo","song":"Bez Sna"}
+{"ts":"2026-01-02T20:18:01Z","artist":"Coby","song":"Leto je"}
+{"ts":"2026-01-02T20:22:01Z","artist":"Colonia","song":"Vatra i led"}
+{"ts":"2026-01-02T20:30:01Z","artist":"Vlado Georgiev","song":"Hej Ti"}
+{"ts":"2026-01-02T20:34:02Z","artist":"Jelena Rozga","song":"Kad nema ljubavi"}
+{"ts":"2026-01-02T20:36:01Z","artist":"Djordje Balasevic","song":"Jaroslava"}
+{"ts":"2026-01-02T20:48:01Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
+{"ts":"2026-01-02T20:52:01Z","artist":"Tijana Bogicevic","song":"Nekako nikako"}
+{"ts":"2026-01-02T20:58:01Z","artist":"Ed Sheeran","song":"Bad Habits"}
+{"ts":"2026-01-02T21:02:01Z","artist":"Edita","song":"Slobodno me rani"}
+{"ts":"2026-01-02T21:04:01Z","artist":"Bebi Dol","song":"Rudi"}
+{"ts":"2026-01-02T21:08:01Z","artist":"Magla Bend","song":"Ne leci se zena drugim zenama"}
+{"ts":"2026-01-02T21:12:02Z","artist":"Angellina","song":"Ti si mi u mislima"}
+{"ts":"2026-01-02T21:14:01Z","artist":"Mars Venus","song":"Budi sa mnom"}
+{"ts":"2026-01-02T21:18:01Z","artist":"Knez","song":"Falis mi ti"}
+{"ts":"2026-01-02T21:26:02Z","artist":"Nevena","song":"Produzi dalje"}
+{"ts":"2026-01-02T21:30:01Z","artist":"Massimo","song":"Zar vise nema nas ft. Neno Belan"}
+{"ts":"2026-01-02T21:34:01Z","artist":"Ana Stanic","song":"Krila"}
+{"ts":"2026-01-02T21:38:01Z","artist":"Zeljko Vasic","song":"Ne verujem ja"}
+{"ts":"2026-01-02T21:44:01Z","artist":"Neverne Bebe","song":"Da Ima Nas"}
+{"ts":"2026-01-02T21:52:02Z","artist":"The Weeknd","song":"Out of Time"}
+{"ts":"2026-01-02T21:56:01Z","artist":"Zoi","song":"Kompromis"}
+{"ts":"2026-01-02T22:02:01Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
+{"ts":"2026-01-02T22:06:02Z","artist":"Matija Cvek","song":"Ne moram ni ja"}
+{"ts":"2026-01-02T22:08:01Z","artist":"Boris Rezak","song":"Pokora"}
+{"ts":"2026-01-02T22:16:01Z","artist":"Jelena Tomasevic","song":"Kosava"}
+{"ts":"2026-01-02T22:22:01Z","artist":"Tose Proeski","song":"Cija Si"}
+{"ts":"2026-01-02T22:28:01Z","artist":"Nika Turkovic","song":"Ima smisla"}
+{"ts":"2026-01-02T22:32:01Z","artist":"Van Gogh","song":"Za suze nema vremena"}
+{"ts":"2026-01-02T22:44:01Z","artist":"RagnBone Man","song":"As You Are"}
+{"ts":"2026-01-02T22:48:01Z","artist":"Miach","song":"SMS"}
+{"ts":"2026-01-02T22:52:01Z","artist":"Dino Dvornik","song":"Tebi Pripadam"}
+{"ts":"2026-01-02T22:54:02Z","artist":"Hurricane","song":"Favorito"}
+{"ts":"2026-01-02T23:00:02Z","artist":"Zeljko Vasic","song":"Nisam Od Juce"}
+{"ts":"2026-01-02T23:04:02Z","artist":"Dino Merlin","song":"Rudar"}
+{"ts":"2026-01-02T23:10:02Z","artist":"Ilma Karahmet","song":"Neko nije"}
+{"ts":"2026-01-02T23:14:01Z","artist":"Jelena Rozga","song":"Od cega sam ja"}
+{"ts":"2026-01-02T23:16:02Z","artist":"Vlado Georgiev","song":"Zbogom ljubavi"}
+{"ts":"2026-01-02T23:20:01Z","artist":"Aleksandra Radovic","song":"Neodoljivo"}
+{"ts":"2026-01-02T23:24:01Z","artist":"Bojan Marovic","song":"Bolja si od drugih"}
+{"ts":"2026-01-02T23:28:01Z","artist":"Devito x Bajaga","song":"Astronaut"}
+{"ts":"2026-01-02T23:32:01Z","artist":"Marija Serifovic","song":"Nisam Andjeo"}
+{"ts":"2026-01-02T23:34:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
+{"ts":"2026-01-02T23:42:01Z","artist":"Boris Rezak","song":"Ljubi Me"}
+{"ts":"2026-01-02T23:44:01Z","artist":"Oliver Mandic","song":"Ljuljaj me nezno"}
+{"ts":"2026-01-02T23:48:01Z","artist":"Edita","song":"Zivotinje"}
+{"ts":"2026-01-02T23:52:01Z","artist":"Ana Bebic","song":"Noc me kida"}
+{"ts":"2026-01-02T23:54:01Z","artist":"Sandi","song":"Vrjeme novih ljubavi"}
+{"ts":"2026-01-02T23:58:01Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
+{"ts":"2026-01-03T00:02:02Z","artist":"Tony Cetinski","song":"Treba Imat Dusu"}
+{"ts":"2026-01-03T00:06:01Z","artist":"Ana Stanic","song":"Ne zna ona 2024."}
+{"ts":"2026-01-03T00:10:01Z","artist":"Oliver Dragojevic","song":"Prati me kroz snove"}
+{"ts":"2026-01-03T00:16:02Z","artist":"Nevena Bozovic","song":"Bal"}
+{"ts":"2026-01-03T00:20:01Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
+{"ts":"2026-01-03T00:24:01Z","artist":"Mvp","song":"Celu Noc I Celi Dan"}
+{"ts":"2026-01-03T00:28:01Z","artist":"Angellina","song":"Na tvojim rukama"}
+{"ts":"2026-01-03T00:30:02Z","artist":"Harry Styles","song":"Adore You"}
+{"ts":"2026-01-03T00:34:01Z","artist":"Amna","song":"Sama"}
+{"ts":"2026-01-03T00:36:02Z","artist":"Merlin","song":"Istine Dvije"}
+{"ts":"2026-01-03T00:40:01Z","artist":"Senidah","song":"Delija"}
+{"ts":"2026-01-03T00:44:01Z","artist":"Igor Simic","song":"Ne dam te"}
+{"ts":"2026-01-03T00:46:01Z","artist":"Nina Badric","song":"Za dobre i lose dane"}
+{"ts":"2026-01-03T00:54:01Z","artist":"Bojan Marovic","song":"Neka te ljubi"}
+{"ts":"2026-01-03T00:58:01Z","artist":"Nela i Marko","song":"U zagrljaju spaseni"}
+{"ts":"2026-01-03T01:02:01Z","artist":"Kiki Lesendric","song":"Noc kao iz sna"}
+{"ts":"2026-01-03T01:04:02Z","artist":"Franka","song":"Putuj sa poljupcima"}
+{"ts":"2026-01-03T01:08:01Z","artist":"Vlado Georgiev","song":"Nisam ljubomoran"}
+{"ts":"2026-01-03T01:12:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-03T01:20:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-03T01:22:01Z","artist":"OneRepublic","song":"I Aint Worried"}
+{"ts":"2026-01-03T01:26:01Z","artist":"Aleksandra Radovic","song":"Ne zaklinjem se na ljubav"}
+{"ts":"2026-01-03T01:28:01Z","artist":"Bajaga","song":"Godine prolaze"}
+{"ts":"2026-01-03T01:32:01Z","artist":"Emina feat. Gazda Paja","song":"Exploziv (Covered by Angellina)"}
+{"ts":"2026-01-03T01:36:01Z","artist":"Magla Bend","song":"Izmislicu ljubav"}
+{"ts":"2026-01-03T01:38:02Z","artist":"ET","song":"Jedina"}
+{"ts":"2026-01-03T01:42:01Z","artist":"Sasa Kovacevic","song":"Romeo"}
+{"ts":"2026-01-03T01:46:01Z","artist":"Marija Serifovic","song":"More pelina"}
+{"ts":"2026-01-03T01:54:01Z","artist":"Knez","song":"Samo ti"}
+{"ts":"2026-01-03T01:56:01Z","artist":"ZSA ZSA ft. Hiljson Mandela","song":"Ova ljubav"}
+{"ts":"2026-01-03T02:00:01Z","artist":"Jelena Tomasevic","song":"Bitanga i princeza"}
+{"ts":"2026-01-03T02:04:01Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
+{"ts":"2026-01-03T02:06:02Z","artist":"Dino Merlin","song":"Rane"}
+{"ts":"2026-01-03T02:10:01Z","artist":"Dzordzi feat. Lores","song":"Na tebi je"}
+{"ts":"2026-01-03T02:26:02Z","artist":"Sara Jo","song":"Neko te ima"}
+{"ts":"2026-01-03T02:30:01Z","artist":"Oliver Dragojevic","song":"Pred tvojim vratima"}
+{"ts":"2026-01-03T02:34:01Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
+{"ts":"2026-01-03T02:42:01Z","artist":"David Temelkov","song":"Sve je prolazno osim tvoje ljubavi"}
+{"ts":"2026-01-03T02:44:01Z","artist":"Colonia","song":"No puedo mas sin ti"}
+{"ts":"2026-01-03T02:48:01Z","artist":"Nemanja Radosevic","song":"Trag u vremenu"}
+{"ts":"2026-01-03T02:52:01Z","artist":"Aleksandra Radovic","song":"Cuvam Te"}
+{"ts":"2026-01-03T03:00:02Z","artist":"Tijana Bogicevic i Damir Kedzo","song":"Hram"}
+{"ts":"2026-01-03T03:06:02Z","artist":"The Weeknd","song":"Blinding Lights"}
+{"ts":"2026-01-03T03:08:01Z","artist":"Edita","song":"Ljustura"}
+{"ts":"2026-01-03T03:12:02Z","artist":"Oktobar 1864","song":"Crni ples"}
+{"ts":"2026-01-03T03:18:01Z","artist":"Zeljko Vasic","song":"Sve jos mirise na nju"}
+{"ts":"2026-01-03T03:22:01Z","artist":"Crvena Jabuka","song":"Vjetar"}
+{"ts":"2026-01-03T03:26:02Z","artist":"Dzejla Ramovic","song":"Bol"}
+{"ts":"2026-01-03T03:32:02Z","artist":"Ana Bebic","song":"Bordo"}
+{"ts":"2026-01-03T03:36:01Z","artist":"Merlin","song":"Sredinom"}
+{"ts":"2026-01-03T03:40:01Z","artist":"Zeljko Joksimovic","song":"1000 zena"}
+{"ts":"2026-01-03T03:44:02Z","artist":"Jelena Tomasevic","song":"Dobro jutro ljubavi"}
+{"ts":"2026-01-03T03:54:01Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
+{"ts":"2026-01-03T04:00:01Z","artist":"Ilma Karahmet","song":"Kraj je"}
+{"ts":"2026-01-03T04:04:01Z","artist":"Prljavo Kazaliste","song":"Kise Jesenje"}
+{"ts":"2026-01-03T04:08:01Z","artist":"Henny","song":"Seti Me Se"}
+{"ts":"2026-01-03T04:14:01Z","artist":"Oliver Dragojevic","song":"Tesko te zaboravljam"}
+{"ts":"2026-01-03T04:18:01Z","artist":"Knez","song":"Falis mi ti"}
+{"ts":"2026-01-03T04:20:01Z","artist":"Zdravko Colic","song":"Zar se nismo shvatili"}
+{"ts":"2026-01-03T04:24:01Z","artist":"Dana Karic","song":"Ja ti zelim srecu"}
+{"ts":"2026-01-03T04:28:01Z","artist":"Vlado Georgiev","song":"Andjele (summer mix)"}
+{"ts":"2026-01-03T04:32:02Z","artist":"Nemanja Radosevic","song":"Prstima"}
+{"ts":"2026-01-03T04:34:01Z","artist":"Aleksandra Radovic","song":"Cuvaj moje srce"}
+{"ts":"2026-01-03T04:38:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-03T04:46:02Z","artist":"Angellina","song":"Na tvojim rukama"}
+{"ts":"2026-01-03T04:50:01Z","artist":"Nevena Bozovic","song":"Ljubav u bojama"}
+{"ts":"2026-01-03T04:54:01Z","artist":"Parni Valjak","song":"Lutka za bal (unplugged)"}
+{"ts":"2026-01-03T05:00:01Z","artist":"Zoi","song":"Problem"}
+{"ts":"2026-01-03T05:08:01Z","artist":"Sasa Kovacevic","song":"Romeo"}
+{"ts":"2026-01-03T05:12:02Z","artist":"Dado Glisic","song":"Kopija"}
+{"ts":"2026-01-03T05:14:01Z","artist":"Marija Serifovic","song":"Dolazi ljubav"}
+{"ts":"2026-01-03T05:18:02Z","artist":"Prljavo Kazaliste","song":"Ako trazis nekoga"}
+{"ts":"2026-01-03T05:30:01Z","artist":"Jovana Pajic","song":"Lepo mi stoji"}
+{"ts":"2026-01-03T05:34:01Z","artist":"Tony Cetinski","song":"Kad zena zavoli"}
+{"ts":"2026-01-03T05:38:01Z","artist":"Emina Jahovic","song":"Probala Sam"}
+{"ts":"2026-01-03T05:46:02Z","artist":"Djana","song":"Nostalgija"}
+{"ts":"2026-01-03T05:48:01Z","artist":"Dino Dvornik","song":"Bas sam ljut"}
+{"ts":"2026-01-03T05:54:01Z","artist":"Tropico Band","song":"Veto"}
+{"ts":"2026-01-03T05:58:01Z","artist":"Zeljko Joksimovic","song":"Mila moja"}
+{"ts":"2026-01-03T06:06:01Z","artist":"Zeljko Vasic","song":"Trazi pesmu"}
+{"ts":"2026-01-03T06:10:01Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-03T06:12:01Z","artist":"Miley Cyrus","song":"Midnight Sky"}
+{"ts":"2026-01-03T06:16:01Z","artist":"Sasa Kovacevic","song":"Nocna ikona"}
+{"ts":"2026-01-03T06:24:01Z","artist":"Devita x Teodora","song":"Vudu (Covered by Tara)"}
+{"ts":"2026-01-03T06:28:01Z","artist":"Bojan Marovic","song":"Jos si samo moja"}
+{"ts":"2026-01-03T06:32:01Z","artist":"Merlin","song":"Ja potpuno trijezan umirem"}
+{"ts":"2026-01-03T06:36:01Z","artist":"Senidah","song":"Lanci Ljubavi"}
+{"ts":"2026-01-03T06:40:01Z","artist":"Tose Proeski","song":"Da l si sretnija"}
+{"ts":"2026-01-03T06:44:01Z","artist":"Zeljko Joksimovic","song":"Mozda je to ljubav"}
+{"ts":"2026-01-03T06:50:01Z","artist":"Colonia","song":"Oduzimas mi dah (Acoustic radio mix)"}
+{"ts":"2026-01-03T06:54:01Z","artist":"Van Gogh","song":"Lud i sam"}
+{"ts":"2026-01-03T07:02:02Z","artist":"Devito x Bajaga","song":"Astronaut"}
+{"ts":"2026-01-03T07:06:01Z","artist":"Emina Jahovic","song":"Da mogu"}
+{"ts":"2026-01-03T07:12:01Z","artist":"Charlie Puth","song":"The Way I Am"}
+{"ts":"2026-01-03T07:16:02Z","artist":"Tony Cetinski","song":"Ima nesto"}
+{"ts":"2026-01-03T07:24:01Z","artist":"Nina Todorovic","song":"Fali Tren"}
+{"ts":"2026-01-03T07:28:01Z","artist":"Ana Bebic","song":"Ti nemas prava na mene"}
+{"ts":"2026-01-03T07:32:01Z","artist":"Crvena Jabuka","song":"Tvoga srca vrata"}
+{"ts":"2026-01-03T07:44:02Z","artist":"Jelena Tomasevic","song":"Radio Svira Za Nas"}
+{"ts":"2026-01-03T07:48:01Z","artist":"Sergej Cetkovic","song":"Zasto pravis slona od mene"}
+{"ts":"2026-01-03T07:50:02Z","artist":"Gibonni","song":"Oprosti"}
+{"ts":"2026-01-03T07:56:02Z","artist":"Edita","song":"Sama"}
+{"ts":"2026-01-03T07:58:01Z","artist":"Zeljko Vasic","song":"Atina"}
+{"ts":"2026-01-03T08:04:01Z","artist":"Senidah","song":"Ti i Ja"}
+{"ts":"2026-01-03T08:08:01Z","artist":"irieFM","song":"Klizis"}
+{"ts":"2026-01-03T08:18:01Z","artist":"Zoi","song":"Ne zoves me"}
+{"ts":"2026-01-03T08:28:01Z","artist":"Magla Bend","song":"Ne leci se zena drugim zenama"}
+{"ts":"2026-01-03T08:32:01Z","artist":"Kameny ft. Iva Curic","song":"Ranjeni"}
+{"ts":"2026-01-03T08:34:01Z","artist":"Zeljko Joksimovic","song":"Zovi me"}
+{"ts":"2026-01-03T08:38:01Z","artist":"Dino Merlin","song":"Rudar"}
+{"ts":"2026-01-03T08:46:01Z","artist":"Colonia","song":"Lazu oci moje"}
+{"ts":"2026-01-03T08:48:01Z","artist":"Euterpa","song":"Ostani"}
+{"ts":"2026-01-03T08:52:01Z","artist":"Moby Dick","song":"Ljubomoran"}
+{"ts":"2026-01-03T08:56:02Z","artist":"Marija Serifovic","song":"Idi dok te volim"}
+{"ts":"2026-01-03T08:58:01Z","artist":"Natasa Bekvalac","song":"Soba 23"}
+{"ts":"2026-01-03T09:04:01Z","artist":"Riblja Corba","song":"Kad sam bio mlad"}
+{"ts":"2026-01-03T09:08:01Z","artist":"Film","song":"Zamisli zivot u ritmu muzike za ples"}
+{"ts":"2026-01-03T09:12:01Z","artist":"Djavoli","song":"Volim je"}
+{"ts":"2026-01-03T09:18:01Z","artist":"Dejan Cukic","song":"Ja bih da pevam"}
+{"ts":"2026-01-03T09:24:02Z","artist":"Generacija 5","song":"Ti i ja"}
+{"ts":"2026-01-03T09:32:01Z","artist":"Prljavo Kazaliste","song":"Sve je lako kad si mlad"}
+{"ts":"2026-01-03T09:34:01Z","artist":"Zabranjeno Pusenje","song":"Djevojcice kojima mirise koza"}
+{"ts":"2026-01-03T09:42:02Z","artist":"Regata","song":"Andrea"}
+{"ts":"2026-01-03T09:46:01Z","artist":"Dino Dvornik","song":"Nadahnuce"}
+{"ts":"2026-01-03T09:54:01Z","artist":"Alisa","song":"Sanja"}
+{"ts":"2026-01-03T09:58:01Z","artist":"Bijelo Dugme","song":"A i ti me iznevjeri"}
+{"ts":"2026-01-03T10:04:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-03T10:08:01Z","artist":"Aleksandra Radovic","song":"Ne volim te"}
+{"ts":"2026-01-03T10:14:01Z","artist":"Teddy Swims","song":"The door"}
+{"ts":"2026-01-03T10:28:01Z","artist":"Zoi","song":"Eto"}
+{"ts":"2026-01-03T10:32:01Z","artist":"Sergej Cetkovic","song":"Ako te zaboravim"}
+{"ts":"2026-01-03T10:36:01Z","artist":"Vesna Pisarovic","song":"Da znas"}
+{"ts":"2026-01-03T10:40:01Z","artist":"Sasa Kovacevic","song":"Romeo"}
+{"ts":"2026-01-03T10:54:01Z","artist":"Tony Cetinski","song":"Nebo iznad nas"}
+{"ts":"2026-01-03T10:58:01Z","artist":"Bajaga","song":"Bademi i so (ft. Bebi Dol)"}
+{"ts":"2026-01-03T11:04:02Z","artist":"Tuti Fruti Band","song":"Ti Me Izludjujes"}
+{"ts":"2026-01-03T11:12:01Z","artist":"Magazin","song":"Jel zbog nje"}
+{"ts":"2026-01-03T11:16:01Z","artist":"Danijel Popovic","song":"Dzuli"}
+{"ts":"2026-01-03T11:18:01Z","artist":"Novi Fosili","song":"Ja sam za ples"}
+{"ts":"2026-01-03T11:28:01Z","artist":"Doris Dragovic","song":"Tek iz navike"}
+{"ts":"2026-01-03T11:32:01Z","artist":"Zana","song":"Majstor za poljupce"}
+{"ts":"2026-01-03T11:40:02Z","artist":"Magazin","song":"Ginem"}
+{"ts":"2026-01-03T11:48:02Z","artist":"Leo","song":"Ljubi ljubi Ljubice"}
+{"ts":"2026-01-03T11:54:02Z","artist":"Srebrna Krila","song":"Ana"}
+{"ts":"2026-01-03T12:04:01Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
+{"ts":"2026-01-03T12:12:01Z","artist":"Hurts","song":"Wonderful life"}
+{"ts":"2026-01-03T12:22:02Z","artist":"Piloti","song":"Tajna Je U Tebi Skrivena"}
+{"ts":"2026-01-03T12:26:01Z","artist":"Tara","song":"Modra zora"}
+{"ts":"2026-01-03T12:30:02Z","artist":"Sergej Cetkovic","song":"Kofer"}
+{"ts":"2026-01-03T12:32:01Z","artist":"Vanna","song":"Ako je vrijedilo ista"}
+{"ts":"2026-01-03T12:38:01Z","artist":"Dzejla Ramovic","song":"Bol"}
+{"ts":"2026-01-03T12:46:01Z","artist":"Edita","song":"Kokuzna vremena"}
+{"ts":"2026-01-03T12:50:01Z","artist":"Oliver Dragojevic","song":"Jeska od ljubavi"}
+{"ts":"2026-01-03T12:54:01Z","artist":"Nevena x Boris Rezak","song":"Laz"}
+{"ts":"2026-01-03T12:56:02Z","artist":"Tose Proeski","song":"Pratim te"}
+{"ts":"2026-01-03T13:10:02Z","artist":"Sara Jo","song":"Pokvaris mi san"}
+{"ts":"2026-01-03T13:12:01Z","artist":"Ed Sheeran","song":"Shape of You"}
+{"ts":"2026-01-03T13:26:01Z","artist":"Albino","song":"Dishi"}
+{"ts":"2026-01-03T13:30:02Z","artist":"Jelena Tomasevic","song":"Zivot u koferima"}
+{"ts":"2026-01-03T13:36:02Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
+{"ts":"2026-01-03T13:42:01Z","artist":"Dino Merlin","song":"Sve do medalje"}
+{"ts":"2026-01-03T13:46:01Z","artist":"Igor Simic","song":"Poveruj u ljubav"}
+{"ts":"2026-01-03T13:50:01Z","artist":"Petar Graso feat. Doris Dragovic","song":"Sto Je Od Mene Ostalo"}
+{"ts":"2026-01-03T14:02:02Z","artist":"Senidah","song":"Dopamin REMIX"}
+{"ts":"2026-01-03T14:06:01Z","artist":"Angellina","song":"Dah po dah"}
+{"ts":"2026-01-03T14:20:01Z","artist":"Sara Jo","song":"Divlja"}
+{"ts":"2026-01-03T14:24:02Z","artist":"Devito x Bajaga","song":"Astronaut"}
+{"ts":"2026-01-03T14:26:01Z","artist":"Djana","song":"Pustinja"}
+{"ts":"2026-01-03T14:30:02Z","artist":"NipplePeople","song":"Sutra"}
+{"ts":"2026-01-03T14:34:01Z","artist":"Breskvica","song":"Leptir"}
+{"ts":"2026-01-03T14:36:02Z","artist":"Dana Karic","song":"Danas"}
+{"ts":"2026-01-03T14:42:02Z","artist":"Sergej Pajic x Edita","song":"Rio Rio"}
+{"ts":"2026-01-03T14:46:01Z","artist":"Sasa Kovacevic","song":"Romeo"}
+{"ts":"2026-01-03T14:54:01Z","artist":"Nevena Bozovic","song":"Jasno mi je"}
+{"ts":"2026-01-03T15:02:01Z","artist":"David Temelkov","song":"Slusaj kada zivot diktira"}
+{"ts":"2026-01-03T15:12:01Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-03T15:18:02Z","artist":"Franka","song":"Prezivjet cu"}
+{"ts":"2026-01-03T15:22:01Z","artist":"Merlin","song":"Nesto lepo treba da se desi"}
+{"ts":"2026-01-03T15:30:01Z","artist":"Kejt","song":"Olovo"}
+{"ts":"2026-01-03T15:32:02Z","artist":"Zana","song":"Mala"}
+{"ts":"2026-01-03T15:36:01Z","artist":"Senidah","song":"Lanci Ljubavi"}
+{"ts":"2026-01-03T15:42:01Z","artist":"Tony Cetinski","song":"Sto Si Ti Meni"}
+{"ts":"2026-01-03T15:46:02Z","artist":"Zeljko Vasic","song":"Ako mi se dogodi"}
+{"ts":"2026-01-03T15:50:01Z","artist":"Vanna","song":"Kao da me nema"}
+{"ts":"2026-01-03T15:56:01Z","artist":"Oliver Dragojevic","song":"U mom zagrljaju"}
+{"ts":"2026-01-03T16:06:02Z","artist":"Dado Glisic","song":"Sto bespuca"}
+{"ts":"2026-01-03T16:20:02Z","artist":"Dino Dvornik","song":"Zasto Pravis Slona Od Mene"}
+{"ts":"2026-01-03T16:24:01Z","artist":"Hana","song":"Mi smo u problemu"}
+{"ts":"2026-01-03T16:28:02Z","artist":"S.A.R.S.","song":"Veruj mi"}
+{"ts":"2026-01-03T16:30:01Z","artist":"Emilia Kokic","song":"Sto mi znacis ti (Acoustic)"}
+{"ts":"2026-01-03T16:36:01Z","artist":"Nina Badric","song":"Alive"}
+{"ts":"2026-01-03T16:48:01Z","artist":"Colonia","song":"Sve oko mene je grijeh"}
+{"ts":"2026-01-03T16:52:02Z","artist":"Zoi","song":"Dvadesete"}
+{"ts":"2026-01-03T17:02:01Z","artist":"Dzenan Loncarevic","song":"Laufer"}
+{"ts":"2026-01-03T17:06:01Z","artist":"Hari Mata Hari","song":"Zjenico oka moga"}
+{"ts":"2026-01-03T17:12:02Z","artist":"Dee Monk","song":"Samo Zelim Da Znam"}
+{"ts":"2026-01-03T17:14:01Z","artist":"Goca Trzan","song":"Stoperka"}
+{"ts":"2026-01-03T17:18:02Z","artist":"Emina Jahovic","song":"Dal ona zna"}
+{"ts":"2026-01-03T17:26:01Z","artist":"Marija Serifovic","song":"Dobar vam dan"}
+{"ts":"2026-01-03T17:32:02Z","artist":"Doris Dragovic","song":"Robujem"}
+{"ts":"2026-01-03T17:36:01Z","artist":"Magazin","song":"Ako poludim"}
+{"ts":"2026-01-03T17:50:01Z","artist":"Zeljko Joksimovic","song":"Varnice"}
+{"ts":"2026-01-03T17:58:01Z","artist":"Djogani","song":"Leto je"}
+{"ts":"2026-01-03T18:02:01Z","artist":"Emina Jahovic","song":"Nisam Na Vreme"}
+{"ts":"2026-01-03T18:10:01Z","artist":"Angellina","song":"Na tvojim rukama"}
+{"ts":"2026-01-03T18:16:01Z","artist":"Senidah","song":"Led i Vatra"}
+{"ts":"2026-01-03T18:18:01Z","artist":"Oliver Mandic","song":"Osloni se na mene"}
+{"ts":"2026-01-03T18:24:01Z","artist":"Amna","song":"Lagana"}
+{"ts":"2026-01-03T18:30:01Z","artist":"Tose Proeski","song":"Soba za tugu"}
+{"ts":"2026-01-03T18:34:01Z","artist":"Matija Cvek feat. LELEK","song":"Pristajem"}
+{"ts":"2026-01-03T18:38:01Z","artist":"Zeljko Vasic","song":"Ti i ja"}
+{"ts":"2026-01-03T18:44:01Z","artist":"Mia Dimsic","song":"Netko drugi"}
+{"ts":"2026-01-03T18:46:02Z","artist":"Knez","song":"Vjeruj"}
+{"ts":"2026-01-03T18:52:01Z","artist":"Nina Badric","song":"Takvi kao ti"}
+{"ts":"2026-01-03T18:58:01Z","artist":"Tasa Krunic","song":"Slomljena"}
+{"ts":"2026-01-03T19:00:01Z","artist":"Sasa Kovacevic","song":"Jedina si vredela"}
+{"ts":"2026-01-03T19:10:01Z","artist":"Nevena","song":"Ne cujes me"}
+{"ts":"2026-01-03T19:14:01Z","artist":"Bajaga","song":"Na vrhovima prstiju"}
+{"ts":"2026-01-03T19:18:01Z","artist":"Nina Todorovic","song":"Ljubav Je Film"}
+{"ts":"2026-01-03T19:32:02Z","artist":"Sergej Cetkovic","song":"Dva minuta"}
+{"ts":"2026-01-03T19:36:01Z","artist":"Dzejla Ramovic","song":"Ginem"}
+{"ts":"2026-01-03T19:40:01Z","artist":"Petar Graso","song":"Vera Od Suvog Zlata"}
+{"ts":"2026-01-03T19:44:01Z","artist":"Angellina","song":"Kraj"}
+{"ts":"2026-01-03T19:52:02Z","artist":"Natasa Bekvalac x Zoi","song":"U inat"}
+{"ts":"2026-01-03T19:54:01Z","artist":"Vlado Georgiev","song":"Ako mi lose krene"}
+{"ts":"2026-01-03T19:58:01Z","artist":"Sara Jo","song":"Pokvaris mi san"}
+{"ts":"2026-01-03T20:02:01Z","artist":"Harry Styles","song":"Watermelon Sugar"}
+{"ts":"2026-01-03T20:06:02Z","artist":"Senidah","song":"Zovi Me"}
+{"ts":"2026-01-03T20:18:02Z","artist":"Zeljko Vasic","song":"Pratis Me U Stopu"}
+{"ts":"2026-01-03T20:24:01Z","artist":"Emina Jahovic","song":"Zaljubila sam se"}
+{"ts":"2026-01-03T20:26:02Z","artist":"Dado Glisic","song":"Kopija"}
+{"ts":"2026-01-03T20:30:01Z","artist":"Ana Bebic","song":"Telepatija"}
+{"ts":"2026-01-03T20:38:01Z","artist":"Toma x Djana","song":"Idi"}
+{"ts":"2026-01-03T20:42:01Z","artist":"Bojan Marovic","song":"Kao da si tu"}
+{"ts":"2026-01-03T20:46:02Z","artist":"Devito x Bajaga","song":"Astronaut"}
+{"ts":"2026-01-03T20:52:01Z","artist":"Marija Serifovic i Jovana Pajic","song":"Demoni"}
+{"ts":"2026-01-03T20:54:01Z","artist":"Adele","song":"Oh My God"}
+{"ts":"2026-01-03T20:58:01Z","artist":"Natalie Balmix","song":"Poljubi Me"}
+{"ts":"2026-01-03T21:02:01Z","artist":"Film","song":"Srce na cesti"}
+{"ts":"2026-01-03T21:06:02Z","artist":"Teya Dora","song":"Pusti me"}
+{"ts":"2026-01-03T21:08:01Z","artist":"Antonia Gigovska","song":"Mogli smo u dvoje"}
+{"ts":"2026-01-03T21:10:01Z","artist":"Parni Valjak","song":"Zastave"}
+{"ts":"2026-01-03T21:20:02Z","artist":"Sasa Kovacevic","song":"Pisi propalo"}
+{"ts":"2026-01-03T21:24:01Z","artist":"Nina Todorovic","song":"Idealan Tim"}
+{"ts":"2026-01-03T21:26:02Z","artist":"Sandi","song":"Nebo"}
+{"ts":"2026-01-03T21:30:01Z","artist":"Zoi","song":"Nirvana"}
+{"ts":"2026-01-03T21:34:01Z","artist":"Nevena Bozovic","song":"Jasno mi je"}
+{"ts":"2026-01-03T21:40:02Z","artist":"Zeljko Joksimovic","song":"Ludak Kao Ja"}
+{"ts":"2026-01-03T21:44:01Z","artist":"Sergej Pajic x Edita","song":"Nemo (Vecno leto)"}
+{"ts":"2026-01-03T21:48:01Z","artist":"The Weeknd feat. Daft Punk","song":"Starboy"}
+{"ts":"2026-01-03T21:54:01Z","artist":"Xenia","song":"Troje"}
+{"ts":"2026-01-03T21:58:02Z","artist":"Albino","song":"Dishi"}
+{"ts":"2026-01-03T22:00:01Z","artist":"MIA","song":"Od Tebe Bolja"}
+{"ts":"2026-01-03T22:04:02Z","artist":"Oliver Dragojevic","song":"Trag u beskraju"}
+{"ts":"2026-01-03T22:08:01Z","artist":"Nina Badric","song":"Alive"}
+{"ts":"2026-01-03T22:16:02Z","artist":"Ana Stanic","song":"Bolesni"}
+{"ts":"2026-01-03T22:20:01Z","artist":"Negative","song":"Svet tuge"}
+{"ts":"2026-01-03T22:24:01Z","artist":"Magla Bend","song":"Uragani"}
+{"ts":"2026-01-03T22:26:01Z","artist":"Vlado Georgiev","song":"Mi nismo mi"}
+{"ts":"2026-01-03T22:34:01Z","artist":"Petar Graso","song":"Ako te pitaju"}
